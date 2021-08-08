@@ -6,5 +6,4 @@ numpy
 scikit-image
 scipy
 Pillow
-base64
 io
