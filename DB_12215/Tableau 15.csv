@@ -1,0 +1,22 @@
+﻿"Méthode d'évaluation",Matériau de construction,Valeur de kAM
+Méthode 1 «Méthode simplifiée»,"Bois lamellé et contreplaqué",0.9
+Méthode 1 «Méthode simplifiée»,"Stratifié",0.9
+Méthode 1 «Méthode simplifiée»,"Alliage d’aluminium",1
+Méthode 1 «Méthode simplifiée»,"Acier",1
+Méthode 2 «Méthode améliorée» (pli par pli),"Bois lamellé et contreplaqué",0.95
+Méthode 2 «Méthode améliorée» (pli par pli),"Stratifié",0.95
+Méthode 2 «Méthode améliorée» (pli par pli),"Alliage d’aluminium",1
+Méthode 2 «Méthode améliorée» (pli par pli),"Acier",1
+Méthode 3 «Développée» et 5 «FEM»,"Bois lamellé et contreplaqué",1
+Méthode 3 «Développée» et 5 «FEM»,"Stratifié",1
+Méthode 3 «Développée» et 5 «FEM»,"Alliage d’aluminium",1
+Méthode 3 «Développée» et 5 «FEM»,"Acier",1
+Méthode 4 «Essais directs»,"Bois lamellé et contreplaqué",1
+Méthode 4 «Essais directs»,"Stratifié",1
+Méthode 4 «Essais directs»,"Alliage d’aluminium",1
+Méthode 4 «Essais directs»,"Acier",1
+Méthode 5 «FEM»,"Bois lamellé et contreplaqué",1
+Méthode 5 «FEM»,"Stratifié",1
+Méthode 5 «FEM»,"Alliage d’aluminium",1
+Méthode 5 «FEM»,"Acier",1
+

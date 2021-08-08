@@ -1,0 +1,11 @@
+voila
+pandas
+ipywidgets
+plotly
+numpy
+xml.etree.ElementTree
+skimage
+scipy
+PIL
+base64
+io
