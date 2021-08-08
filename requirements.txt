@@ -5,6 +5,6 @@ plotly
 numpy
 scikit-image
 scipy
-PIL
+Pillow
 base64
 io
