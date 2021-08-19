@@ -31,6 +31,13 @@ Follow this link to launch the demo : [link to 12215 ALIVE on BINDER!](https://m
 
 It may take a little while, at the very first start, for the online server to be built. In background, it's a complete virtual machine that is created for you. Please note that it may happens that the internet page stay blank after the server is launched. Wait a litte more before reloading the page to get the app.
 
+This demo version gives only access to the very first steps of the 12215 methods. __Get tuned and stay alert, all the extra features will be unveil before the official launch !__
+
+* __Known issues__
+ * Wait for the image to be downloaded, then double tap or click on the image section below the download button, in section *DESCRIPTION*, to get the full image display.
+ * Also double tap or click on the image section below the get it button, in section *GET YOUR APPLICATION FORM*, to get the full image display, after the image has been displayed.
+ * When using scrolling selection, the first item of every menu is not reactive, even if clicked, for the first time of use. Simply choose another option, then re-select the first item in the menu you wanted to choose at first place.
+
 ## DEVELOPMENT PLAN
 ![Github](/images/image012.png)
 
