@@ -45,7 +45,7 @@ __Three technologies__ have been selected and implemented in the App for this pu
 * __Real-time mode__    
   * See by yourself the effect of parameters on the evaluation and get a sharp sense of the standard formulas and coefficient to the point when ideas of optimization will come to your mind.
 * __Print with reference mode__  
-  *Database of reference linked with the output functions of the App. With this functionality, the App, under the woods, deliver up to date evaluation, and will continue to stitch to the 12215 has the standard will
+  * Database of reference linked with the output functions of the App. With this functionality, the App, under the woods, deliver up to date evaluation, and will continue to stitch to the 12215 has the standard will
     evolve in the future, with a minimum of code re-writing. 
     
  © A.C.E. CATTELLIOT ENGINEERING 2021
