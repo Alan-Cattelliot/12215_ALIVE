@@ -24,6 +24,13 @@ non-professionals__.
 
 ![Github](/images/image004.jpg)
 
+## USE IT NOW
+![Github](/images/demo.PNG)
+
+Follow this link to launch the demo : [link to 12215 ALIVE on BINDER!](https://mybinder.org/v2/gh/Alan-Cattelliot/12215_ALIVE/HEAD?urlpath=%2Fvoila%2Frender%2FFuture_version_1.ipynb)
+
+It may take a little while, at the very first start, for the online server to be built. In background, it's a complete virtual machine that is created for you. Please note that it may happens that the internet page stay blank after the server is launched. Wait a litte more before reloading the page to get the app.
+
 ## DEVELOPMENT PLAN
 ![Github](/images/image012.png)
 
