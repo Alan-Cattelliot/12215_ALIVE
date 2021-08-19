@@ -5,7 +5,7 @@ Tool for Small Craft Hull Construction and Scantling ISO12215-5
 
 
 
-__Jun-2021. 12215 ALIVE !1 is a JavaScript DEMO platform (also referred as “the App” in this document) that delivers a pre-organized and comprehensive information of the standard requirements,
+> __Jun-2021. 12215 ALIVE !1 is a JavaScript DEMO platform (also referred as “the App” in this document) that delivers a pre-organized and comprehensive information of the standard requirements,
 specifically to any user’s case.__
 
 The 12215 ALIVE! App DEMO is developed by A.C.E. CATTELLIOT ENGINEERING, in the purpose of support and partnership with users. It guides users through the evaluation process via __an online interface__
@@ -24,14 +24,19 @@ non-professionals__.
 
 ![Github](/images/image004.jpg)
 
+
+
 ## USE IT NOW
 ![Github](/images/demo.png)
 
-Follow this link to launch the demo : [link to 12215 ALIVE on BINDER!](https://mybinder.org/v2/gh/Alan-Cattelliot/12215_ALIVE/HEAD?urlpath=%2Fvoila%2Frender%2FFuture_version_1.ipynb)
 
-It may take a little while, at the very first start, for the online server to be built. In background, it's a complete virtual machine that is created for you. Please note that it may happens that the internet page stay blank after the server is launched. Wait a litte more before reloading the page to get the app.
+> It may take a little while, at the very first start, for the online server to be built. In background, it's a complete virtual machine that is created for you. Please note that it may happens that the internet page stay blank after the server is launched. Wait a litte more before reloading the page to get the app.
 
 This DEMO version gives only access to the very first steps of the 12215 methods. __Get tuned and stay alert, all the extra features will be unveil before the official launch !__
+
+Follow this link to launch the demo : [link to 12215 ALIVE on BINDER!](https://mybinder.org/v2/gh/Alan-Cattelliot/12215_ALIVE/HEAD?urlpath=%2Fvoila%2Frender%2FFuture_version_1.ipynb)
+
+
 
 ### Important notes
  * Craft under 2.5meters are how of the scope of the standard, although they have been implemented in the DEMO version, resulting in faulty analysis. This is not the case on the full version, where practical analysis in some restrained cases can be performed. It serves the purpose of challenging some features in the standard for future use.
@@ -42,10 +47,12 @@ This DEMO version gives only access to the very first steps of the 12215 methods
  * Also double tap or click on the image section below the get it button, in section *GET YOUR APPLICATION FORM*, to get the full image display, after the image has been displayed.
  * When using scrolling selection, the first item of every menu is not reactive, even if clicked, for the first time of use. Simply choose another option, then re-select the first item in the menu you wanted to choose at first place.
 
+
+
 ## DEVELOPMENT PLAN
 ![Github](/images/image012.png)
 
-__The achievement will be for the app to deliver the information both interactively and into the form a pre-built templates. In gold, the expected delivery date of a server that will be
+> __The achievement will be for the app to deliver the information both interactively and into the form a pre-built templates. In gold, the expected delivery date of a server that will be
 accessible to any kind of terminal java-compatible.__
 
 Our efforts are focused in merging new computing technologies together, allowing for the App to be located on a distant virtual server, exchanging in real-time with the user, to guide him through the process of evaluation.
