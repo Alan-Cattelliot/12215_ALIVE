@@ -25,7 +25,7 @@ non-professionals__.
 ![Github](/images/image004.jpg)
 
 ## USE IT NOW
-![Github](/images/demo.PNG)
+![Github](/images/demo.png)
 
 Follow this link to launch the demo : [link to 12215 ALIVE on BINDER!](https://mybinder.org/v2/gh/Alan-Cattelliot/12215_ALIVE/HEAD?urlpath=%2Fvoila%2Frender%2FFuture_version_1.ipynb)
 
