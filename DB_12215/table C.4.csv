@@ -1,0 +1,10 @@
+﻿Type,Denomination,Reference,Masse volumique ρ (ρf ou ρm),Module d’élasticité E Ef1//Fibres,"(Ef1, Ef2 ou Em) Ef2⏊ Fibres",Module de cisaillement G (Gf ou Gm),Coefficient de Poisson ν (νf ou νm)
+,Unite,t/m3,N/mm2,N/mm2,N/mm2,1
+Fibres de renfort,Verre E, ISO12215:2019,2.56,73000,73000,30000,0.22
+Fibres de renfort,Aramide, ISO12215:2019,1.44,124000,6900,2800,0.36
+Fibres de renfort,Carbone HS, ISO12215:2019,1.78,235000,20000,50000,0.27
+Matrices,Polyester/époxy, ISO12215:2019,1.2,3300,3300,1222,0.32
+Matrices,Epoxyde,Materiaux composites GAY 5eme edition,1.2,4500,4500,1600,0.4
+Matrices,Phenolique,Materiaux composites GAY 5eme edition,1.3,3000,3000,1100,0.4
+Matrices,Polyester,Materiaux composites GAY 5eme edition,1.2,4000,4000,1400,0.4
+Matrices,Vinylester,Materiaux composites GAY 5eme edition sauf valeurs en cisaillement,1.15,3300,3300,1240,0.4
