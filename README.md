@@ -50,7 +50,7 @@ Follow this link to launch the demo : [link to 12215 ALIVE on BINDER!](https://m
 
 
 ## DEVELOPMENT PLAN
-![Github](/images/image012.png)
+![Github](/images/image011.png)
 
 > __The achievement will be for the app to deliver the information both interactively and into the form a pre-built templates. In gold, the expected delivery date of a server that will be
 accessible to any kind of terminal java-compatible.__
