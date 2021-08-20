@@ -38,17 +38,13 @@ it's __a complete virtual machine__ that is created for you, everytime you need 
 
 DEMO direct link : [link to 12215 ALIVE!](https://mybinder.org/v2/gh/Alan-Cattelliot/12215_ALIVE/HEAD?urlpath=%2Fvoila%2Frender%2FFuture_version_1.ipynb)
 
-- [ ] The BINDER windows is opened
+- [ ] Check the `Lauching server` printout in terminal view
 
-The terminal view gives the status of the server creation and configuration.
+The online server is being built. The terminal view gives the status of the server creation and configuration. 
 
-- [ ] The online server is being built
+- [ ] Enjoy __12215 ALIVE!__ 
 
-The *Lauching server* printout, in the terminal view (see image below) indicates that the virtual machine has been successfully built, and that__"the App"__ is starting.
-
-- [ ] __12215 ALIVE!__ is starting
-
-It may also happens that the internet page stay blank after the BINDER server is launched. Please wait a litte more before reloading the page to get the app.
+After the start of the application, tt may also happens that the internet page stay blank after the BINDER server is launched. Please wait a litte more before reloading the page to get the app.
 
 ![Binder12215](/images/binder.png)
 
@@ -59,8 +55,8 @@ It may also happens that the internet page stay blank after the BINDER server is
  * Part 7 of the standard is still a matter of discussion. The performance analysis of multihulls shown in the demo are based on monohull formulas. This approximation is acceptable for most of the production  multihulls, but is mostly innacurate for light sailing multihulls. Special cares are taken in the full version.
 
 ### Known issues
- * Wait for the image to be downloaded, then double tap or click on the image section below the download button, in section *DESCRIPTION*, to get the full image display.
- * Also double tap or click on the image section below the get it button, in section *GET YOUR APPLICATION FORM*, to get the full image display, after the image has been displayed.
+ * Wait for the image to be downloaded, then double tap or click on the image section below the download button, in section `DESCRIPTION`, to get the full image display.
+ * Also double tap or click on the image section below the get it button, in section `GET YOUR APPLICATION FORM`, to get the full image display, after the image has been displayed.
  * When using scrolling selection, the first item of every menu is not reactive, even if clicked, for the first time of use. Simply choose another option, then re-select the first item in the menu you wanted to choose at first place.
 
 
