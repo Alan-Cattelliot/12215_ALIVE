@@ -30,13 +30,17 @@ non-professionals__.
 ![Github](/images/demo.png)
 
 
-> It may take a little while, at the very first start, for the online server to be built. In background, it's a complete virtual machine that is created for you. Please note that it may happens that the internet page stay blank after the server is launched. Wait a litte more before reloading the page to get the app.
+> This DEMO version gives only access to the very first steps of the 12215 methods. __Get tuned and stay alert, all the extra features will be unveil before the official launch !__
 
-This DEMO version gives only access to the very first steps of the 12215 methods. __Get tuned and stay alert, all the extra features will be unveil before the official launch !__
+it's a complete virtual machine that is created for you, everytime you need it, wherever you are, taking advantage of just an smartphone in your hand and an internet connexion in the air. What you need to get the job done, in a nutshell.
+
+You access "the APP" directly when clicking on the link below. It may take a little while, at first start, for the online server to be built. 
+![Github](/images/binder.png)
+
+It may also happens that the internet page stay blank after the BINDER server is launched. Please wait a litte more before reloading the page to get the app.
+
 
 Follow this link to launch the demo : [link to 12215 ALIVE on BINDER!](https://mybinder.org/v2/gh/Alan-Cattelliot/12215_ALIVE/HEAD?urlpath=%2Fvoila%2Frender%2FFuture_version_1.ipynb)
-
-
 
 ### Important notes
  * Craft under 2.5meters are how of the scope of the standard, although they have been implemented in the DEMO version, resulting in faulty analysis. This is not the case on the full version, where practical analysis in some restrained cases can be performed. It serves the purpose of challenging some features in the standard for future use.
