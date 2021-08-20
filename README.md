@@ -30,11 +30,13 @@ Tool that makes you smarter
 
 > __August-2021__ Gather minimal crafts characteristics in this DEMO version and get the official application form of the 12215 standard. First step in the application of the standard, it gives the flavor of 12215ALIVE! __Get tuned and stay alert, all the functionnalities will be unveiled before the official launch !__
 
-it's __a complete virtual machine__ that is created for you, everytime you need it, wherever you are, taking advantage of just an smartphone in your hand and an internet connexion in the air. What you need to get the job done, in a nutshell.
+it's __a complete virtual machine__ that is created for you, everytime you need it, wherever you are, taking advantage of just an smartphone in your hand and an internet connexion in the air. 
+
+### What you need to get the job done, in a nutshell, is :
 
 - [ ] Access "the APP" directly when clicking on the link below
 
-DEMO direct link : [link to 12215 ALIVE on BINDER!](https://mybinder.org/v2/gh/Alan-Cattelliot/12215_ALIVE/HEAD?urlpath=%2Fvoila%2Frender%2FFuture_version_1.ipynb)
+DEMO direct link : [link to 12215 ALIVE!](https://mybinder.org/v2/gh/Alan-Cattelliot/12215_ALIVE/HEAD?urlpath=%2Fvoila%2Frender%2FFuture_version_1.ipynb)
 
 - [ ] The BINDER windows is opened
 
