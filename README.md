@@ -86,7 +86,7 @@ Compared with the 2008 version, structural analysis of the 12215 demands the use
 
 As the standard has reached his end of presumption of conformity the 1st of July, we have implemented several assessment procedures, until a consensus is attained together with official recommendations, that would allow us to go further.
 
-### Upcoming 12215 developpments
+### Upcoming
 
 ![Github](/images/image021.png)
 
