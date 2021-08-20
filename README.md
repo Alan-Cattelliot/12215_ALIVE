@@ -42,7 +42,7 @@ The terminal view gives the status of the server creation and configuration.
 
 - [ ] The online server is being built
 
-The *Lauching server* output indicates that __"the App"__ is starting.
+The *Lauching server* printout, in the terminal view (see image below) indicates that the virtual machine has been successfully built, and that__"the App"__ is starting.
 
 - [ ] __12215 ALIVE!__ is starting
 
