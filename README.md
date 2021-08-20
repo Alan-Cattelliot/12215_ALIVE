@@ -28,19 +28,29 @@ Tool that makes you smarter
 ![Github](/images/demo.png)
 
 
-> __August-2021__Gather minimal crafts characteristics in this DEMO version and get the official application form of the 12215 standard. First step in the application of the standard, it gives the flavor of 12215ALIVE! __Get tuned and stay alert, all the functionnalities will be unveiled before the official launch !__
+> __August-2021__ Gather minimal crafts characteristics in this DEMO version and get the official application form of the 12215 standard. First step in the application of the standard, it gives the flavor of 12215ALIVE! __Get tuned and stay alert, all the functionnalities will be unveiled before the official launch !__
 
 it's __a complete virtual machine__ that is created for you, everytime you need it, wherever you are, taking advantage of just an smartphone in your hand and an internet connexion in the air. What you need to get the job done, in a nutshell.
 
-Follow this link to launch the demo : [link to 12215 ALIVE on BINDER!](https://mybinder.org/v2/gh/Alan-Cattelliot/12215_ALIVE/HEAD?urlpath=%2Fvoila%2Frender%2FFuture_version_1.ipynb)
+- [ ] Access "the APP" directly when clicking on the link below
 
-You access "the APP" directly when clicking on the link below. A new window opens on BINDER opens. It may take a little while, at first start, for the online server to be built. The terminal view gives the status of the server creation and configuration. The *Lauching server* output indicates that __"the App"__ is starting.
+DEMO direct link : [link to 12215 ALIVE on BINDER!](https://mybinder.org/v2/gh/Alan-Cattelliot/12215_ALIVE/HEAD?urlpath=%2Fvoila%2Frender%2FFuture_version_1.ipynb)
+
+- [ ] The BINDER windows is opened
+
+The terminal view gives the status of the server creation and configuration.
+
+- [ ] The online server is being built
+
+The *Lauching server* output indicates that __"the App"__ is starting.
+
+- [ ] __12215 ALIVE!__ is starting
+
+It may also happens that the internet page stay blank after the BINDER server is launched. Please wait a litte more before reloading the page to get the app.
 
 ![Binder12215](/images/binder.png)
 
-After that, It may also happens that the internet page stay blank after the BINDER server is launched. Please wait a litte more before reloading the page to get the app. Please use this site to pull a request. We will give you full support to get your hands on the DEMO.
-
-Follow this link to launch the demo : [link to 12215 ALIVE on BINDER!](https://mybinder.org/v2/gh/Alan-Cattelliot/12215_ALIVE/HEAD?urlpath=%2Fvoila%2Frender%2FFuture_version_1.ipynb)
+ Please use the GITHUB website to pull a request. We will give you full support to get your hands on the DEMO.
 
 ### Important notes
  * Craft under 2.5meters are how of the scope of the standard, although they have been implemented in the DEMO version, resulting in faulty analysis. This is not the case on the full version, where practical analysis in some restrained cases can be performed. It serves the purpose of challenging some features in the standard for future use.
@@ -69,8 +79,7 @@ __Three technologies__ have been selected and implemented in the DEMO for this p
 * __Real-time mode__    
   * See by yourself the effect of parameters on the evaluation and get a sharp sense of the standard formulas and coefficient to the point when ideas of optimization will come to your mind.
 * __Print with reference mode__  
-  * Database of reference linked with the output functions of the App. With this functionality, the App, under the woods, deliver up to date evaluation, and will continue to stitch to the 12215 has the standard will
-    evolve in the future, with a minimum of code re-writing.
+  * Database of reference linked with the output functions of the App. With this functionality, the App, under the woods, deliver up to date evaluation, and will continue to stitch to the 12215 has the standard will evolve in the future, with a minimum of code re-writing.
     
 ### General context
 Compared with the 2008 version, structural analysis of the 12215 demands the user an additional effort to get confidence in the choice of the method. In cause, the “trial and error” approach for boat assessment.
@@ -82,22 +91,32 @@ As the standard has reached his end of presumption of conformity the 1st of July
 ![Github](/images/image021.png)
 
 * __Method 4__
-* * makes a link to other standards - ISO,ASTM -, which are specifically applicable to material testing. Habilitated test centers operate under ISO9001 rules are thrusted sources. Local university laboratories or independent test centers may also produce quality results, depending on their experience in the industry field. __Method 4 will be available with usage restrictions to be acknowledged by the users.__
+  * makes a link to other standards - ISO,ASTM -, which are specifically applicable to material testing. Habilitated test centers operate under ISO9001 rules are thrusted sources. Local university laboratories or independent test centers may also produce quality results, depending on their experience in the industry field. __Method 4 will be available with usage restrictions to be acknowledged by the users.__
 * __Method 5__
- * is used for a pair of decades in boat industry. Most naval engineering cabinets master FE analysis. From their theorical knowledge and practical experience of the manufacturing, they are capable of producing the more realistic results7.__A practical implementation of the method 5 is scenarized to be put in the App in January, 2022__.
- *
+  * is used for a pair of decades in boat industry. Most naval engineering cabinets master FE analysis. From their theorical knowledge and practical experience of the manufacturing, they are capable of producing the more realistic results7.__A practical implementation of the method 5 is scenarized to be put in the App in January, 2022__.
+ 
 ## CONTRIBUTION AND PARTNERSHIP
 
-![Github](/images/image030.png)
+> Engineering is the hardest part, as it . we would like to invite you to catch the wind, and join us. 
 
-> Engineering is the hardest part, as it requires specific knowledge and competence. Making small Apps online has already been tested, providing access to a few users. Scaling issues may be anticipated if we could benefit from experiences. And for the more mechanical or material oriented engineers of you, we will enjoy every suggestion of CLT analysis algorithm.
+We deploy small Apps online has already been tested, providing access to a few users. Behind the scene, high end computing technics requires specific knowledge and competence. We offer you any appropriate partnership to go further away, together. in our use of the standard, for our mutual benefit. 
 
 ![Github](/images/image006.png)
+
+### Composite application
+
+The material characteristics taken into account are, most of the time, the thickness, the fiber orientation, the moisture level and the temperature. Advanced layering technologies  aim a gain in material strength, balancing efforts inside the material. The method 1 and method 2 cannot be used in relevant cases in the industry. A solution is given in the standard.
+
+For the more mechanical or material oriented engineers of you, we will enjoy every suggestion of __CLT analysis algorithm.__ Method 3 is a more detailed method applicable to __any bi-directional layered composite manufacture__. It concerns most of the boat production, since the industry of Plaisance is essentially plastic-based. 
+
+It is a pain that it has not been possible to find numerical tools to validate unbalanced material compositions with low fiber content, as it is most of the time. More, to use this third method, one requires a lot of trustworthy data, that lacks today. Until we are able to overcome these issues, our position is that the finite element analysis should be prefered.
+
+Thank you for your attention.
 
 # 12215_ALIVE
 Tool for Small Craft Hull Construction and Scantling ISO12215-5
 
-Thank you for your attention, and see you !
+
 
 
  © A.C.E. CATTELLIOT ENGINEERING 2021
