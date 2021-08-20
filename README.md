@@ -5,61 +5,61 @@ Tool for Small Craft Hull Construction and Scantling ISO12215-5
 
 > __Jun-2021__. 12215 ALIVE ! is a java application (also referred as __“the App”__ in this document) that select, organize and report, to your needs, the requirements of the ISO-12215 Small Crafts Design & Scantlings; in his last version.
 
-The 12215 ALIVE! App DEMO is developed by A.C.E. CATTELLIOT ENGINEERING, in the purpose of finding support and partnership for the developpment of a complete technical and regulatory service for crafts under 24meters/78feet. 
+ 12215 ALIVE ! App DEMO is developed by A.C.E. CATTELLIOT ENGINEERING, in the purpose of finding support and partnership for the developpment of a complete technical and regulatory service for crafts under 24meters / 78feet. 
 
-The user is guided in his own application of the standard via __an online interface__, in compliancy with the record management system of ISO9001 version 2015. As a result, you are able to produce, in an instant, __a simple verification or an evidence of compliancy__ for local administration.
+The user is guided in his own application of the standard via __an online interface__, in compliancy with the record management system of ISO-9001 version 2015. As a result, you are able to produce, in an instant, __a simple verification or an evidence of compliancy__ for local administration.
 
-It implements the following revised ISO12215-5 requirements :
+It implements the following revised ISO-12215 part 5 requirements :
 
 * 5.General requirements
   * 5.1 Material
   * 5.2 General procedure for scantling determination
 
 ### Applications
-All the entries and output variable defined in the standard are translated into simple formulars, allowing a wide range of users, including __manufacturer, designers, architects, professionals and non-professionals__.
+All the entries and output variable defined in the standard are translated into simple formulars, allowing a wide range of users, including __manufacturers, designers, architects, professionals and non-professionals__.
 
 ![Github](/images/image004.jpg)
 
 
 
-## USE IT NOW
-Tool that makes you smarter
+## USE 12215 ALIVE ! NOW
+A tool that makes you smarter
 
 ![Github](/images/demo.png)
 
 
-> __August-2021__ Gather minimal crafts characteristics in this DEMO version and get the official application form of the 12215 standard. First step in the application of the standard, it gives the flavor of 12215ALIVE! __Get tuned and stay alert, all the functionnalities will be unveiled before the official launch !__
+> __August-2021__ Give the minimal definition of your craft in this DEMO version and get the official application form of the 12215 standard. First step in the application of the standard, it gives the flavor of 12215ALIVE! __Get tuned and stay alert, all the functionnalities will be unveiled before the official launch !__
 
-it's __a complete virtual machine__ that is created for you, everytime you need it, wherever you are, taking advantage of just an smartphone in your hand and an internet connexion in the air. 
+it's __a complete virtual machine__ that is created for you, everytime you need it, wherever you are, taking advantage of just an smartphone in your hands and an internet connexion in the air. 
 
 ### What you need to get the job done, in a nutshell, is :
 
 - [ ] Access "the APP" directly when clicking on the link below
 
-DEMO direct link : [link to 12215 ALIVE!](https://mybinder.org/v2/gh/Alan-Cattelliot/12215_ALIVE/HEAD?urlpath=%2Fvoila%2Frender%2FFuture_version_1.ipynb)
+Direct link to the DEMO : [link to 12215 ALIVE !](https://mybinder.org/v2/gh/Alan-Cattelliot/12215_ALIVE/HEAD?urlpath=%2Fvoila%2Frender%2FFuture_version_1.ipynb)
 
 - [ ] Check the `Lauching server` printout in terminal view
 
 The online server is being built. The terminal view gives the status of the server creation and configuration. 
 
-- [ ] Enjoy __12215 ALIVE!__ 
+- [ ] Enjoy __12215 ALIVE !__ 
 
-After the start of the application, tt may also happens that the internet page stay blank after the BINDER server is launched. Please wait a litte more before reloading the page to get the app.
+After the start of the application, tt may also happens that the internet page stay blank after the BINDER server is launched. Please wait a little more before reloading the page to get the app.
 
 ![Binder12215](/images/binder.png)
 
  Please use the GITHUB website to pull a request. We will give you full support to get your hands on the DEMO.
 
 ### Important notes
- * Craft under 2.5meters are how of the scope of the standard, although they have been implemented in the DEMO version, resulting in faulty analysis. This is not the case on the full version, where practical analysis in some restrained cases can be performed. It serves the purpose of challenging some features in the standard for future use.
- * Part 7 of the standard is still a matter of discussion. The performance analysis of multihulls shown in the demo are based on monohull formulas. This approximation is acceptable for most of the production  multihulls, but is mostly innacurate for light sailing multihulls. Special cares are taken in the full version.
+ * Craft under 2.5meters are out of the scope of the standard, although they have been implemented in the DEMO version, resulting in faulty analysis. This is not the case on the full version, where practical analysis in some restrained cases can be performed. It serves the purpose of challenging some features in the standard for future use.
+ * Part 7 of the standard is still a matter of discussion. The performance analysis of multihulls shown in the demo are based on monohull formulas. This approximation is acceptable for most of the production  multihulls, but is mostly innacurate for light sailing multihulls and racers. Special cares are taken in the full version.
 
 ### Known issues
- * Wait for the image to be downloaded, then double tap or click on the image section below the download button, in section `DESCRIPTION`, to get the full image display.
- * Also double tap or click on the image section below the get it button, in section `GET YOUR APPLICATION FORM`, to get the full image display, after the image has been displayed.
+ * Wait for the image to be downloaded, then double tap or click on the image section below the download button, in section `DESCRIPTION`, to display the full image.
+ * Also double tap or click on the image section below the `get it` button, in section `GET YOUR APPLICATION FORM`, to get the full image display, after the image has been displayed.
  * When using scrolling selection, the first item of every menu is not reactive, even if clicked, for the first time of use. Simply choose another option, then re-select the first item in the menu you wanted to choose at first place.
 
-
+Sorry for the convenience, we're seeking solutions for this.
 
 ## DEVELOPMENT
 Plans for a better experience in quality insurance of leisure crafts
@@ -68,9 +68,9 @@ Plans for a better experience in quality insurance of leisure crafts
 
 > __September, 2021 Official launch of the BETA version__. __"The App"__ will deliver cross informations of the 12215 books, both interactively and into the form a pre-built templates, accessible to any kind of terminal java-compatible, until jan-2022. During the BETA period, we will fully support you in your applications, and let you drive __"The App"__ in your garage.
  
-Our efforts are focused in merging new computing technologies together, allowing __"the App"__ to become a reliable and easy-to-get 12215 assessment of every __crafts under 24meters/78feet, including racers__.
+Our efforts are focused in merging new computing technologies together, allowing __"the App"__ to become a reliable and easy-to-get 12215 assessment of every __crafts under 24meters / 78feet, including racers__.
 
-Make use of virtual machine to lower the cost of edge technologies, exchange capital datas in real-time expertise and expersion with front end users, be assisted through the process of evaluation. we aim at giving to __the advantage of an highlighted view of what can be made__, in the mandatory field of the standard.
+Make use of virtual machine to lower the cost of edge technologies, exchange building datas in real-time under supervision, be assisted through the process of evaluation. we aim at giving to __the advantage of an highlighted view of the whole mandatory requirements of the standard__.
 
 __Three technologies__ have been selected and implemented in the DEMO for this purpose :
 
@@ -91,16 +91,16 @@ As the standard has reached his end of presumption of conformity the 1st of July
 ![Github](/images/image021.png)
 
 * __Method 4__
-  * makes a link to other standards - ISO,ASTM -, which are specifically applicable to material testing. Habilitated test centers operate under ISO9001 rules are thrusted sources. Local university laboratories or independent test centers may also produce quality results, depending on their experience in the industry field.
+  * makes a link to other standards - ISO,ASTM -, which are specifically applicable to material testing. Habilitated test centers operate under ISO9001 rules are trusted sources. Local university laboratories or independent test centers may also produce quality results, depending on their experience in the industry field.
 
 __Method 4 will be available with usage restrictions to be acknowledged by the users.__
 
 * __Method 5__
-  * is used for a pair of decades in boat industry. Most naval engineering cabinets master FE analysis. From their theorical knowledge and practical experience of the manufacturing, they are capable of producing the more realistic results. The unification of their own method, together with the FE implementation in the standard, pose, in the end, un-solved questions to users. 
+  * is used for a pair of decades in boat industry. Most naval engineering cabinets master FE analysis. From their theorical knowledge and practical experience of the manufacturing, they are capable of producing the more realistic results. However, the unification of each of their own methods, together with the FE implementation in the standard, poses, in the end, un-solved questions of interpretation to users, that should be kept out of the standard, and solved specifically apart. 
 
 ![Github](/images/image040.png)
 
-> An attempt to propose solutions is under currently under validation study, through collaboration in the study of composite panels with the EF method.
+> A solution is currently under validation study, through collaboration in the study of curved composite panels with the EF method plugged into __"The App"__.
 
 __A practical implementation of the method 5 is scenarized to be put in the App in January, 2022__.
  
@@ -114,13 +114,13 @@ We would like to invite you to catch the wind, and join us. We design numerical 
 
 > The 3 components of our approach, for each of which we will focus our greatest efforts.
 
-### Composite application
+### Application to composite manufacturing
 
 > The material characteristics taken into account are, most of the time, the thickness, the fiber orientation, the moisture level and the temperature. Advanced layering technologies  aim a gain in material strength, balancing efforts inside the material. The method 1 and method 2 cannot be used in relevant cases in the industry. A solution is given in the standard, but the difficulty of its use poses an issue.
 
 For the more mechanical or material oriented engineers of you, we will enjoy every suggestion of __CLT analysis algorithm.__ Method 3 is a more detailed method applicable to __any bi-directional layered composite manufacture__. It concerns most of the boat production, since the industry of Plaisance is essentially plastic-based. 
 
-It is a pain that it has not been possible to find numerical tools to validate unbalanced material compositions with low fiber content, as it is most of the time. More, to use this third method, one requires a lot of trustworthy data, that lacks today. Until we are able to overcome these issues, our position is that the finite element analysis should be prefered.
+It is a pain that it has not been possible to find numerical tools to validate unbalanced material compositions with low fiber content, as they gives some true advantages in term of strenght and durability. In addition, the use of this third method requires trustworthy data in the 3 dimensions of the material, taking its inner structure into account, that is only attains with great efforts today. Until then, our position will be that the finite element analysis should be prefered.
 
 Thank you for your attention.
 
