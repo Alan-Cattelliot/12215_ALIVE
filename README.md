@@ -91,21 +91,32 @@ As the standard has reached his end of presumption of conformity the 1st of July
 ![Github](/images/image021.png)
 
 * __Method 4__
-  * makes a link to other standards - ISO,ASTM -, which are specifically applicable to material testing. Habilitated test centers operate under ISO9001 rules are thrusted sources. Local university laboratories or independent test centers may also produce quality results, depending on their experience in the industry field. __Method 4 will be available with usage restrictions to be acknowledged by the users.__
+  * makes a link to other standards - ISO,ASTM -, which are specifically applicable to material testing. Habilitated test centers operate under ISO9001 rules are thrusted sources. Local university laboratories or independent test centers may also produce quality results, depending on their experience in the industry field.
+
+__Method 4 will be available with usage restrictions to be acknowledged by the users.__
+
 * __Method 5__
-  * is used for a pair of decades in boat industry. Most naval engineering cabinets master FE analysis. From their theorical knowledge and practical experience of the manufacturing, they are capable of producing the more realistic results7.__A practical implementation of the method 5 is scenarized to be put in the App in January, 2022__.
+  * is used for a pair of decades in boat industry. Most naval engineering cabinets master FE analysis. From their theorical knowledge and practical experience of the manufacturing, they are capable of producing the more realistic results. The unification of their own method, together with the FE implementation in the standard, pose, in the end, un-solved questions to users. 
+
+![Github](/images/image040.png)
+
+> An attempt to propose solutions is under currently under validation study, through collaboration in the study of composite panels with the EF method.
+
+__A practical implementation of the method 5 is scenarized to be put in the App in January, 2022__.
  
 ## CONTRIBUTION AND PARTNERSHIP
 
-> Engineering is the hardest part, as it . we would like to invite you to catch the wind, and join us. 
+> Engineering is the hardest part. Creating the online server means contracting the virtual machines, creating the online repositories arborescence, uploading the application, testing, making access to clients, giving access to site manager. The deployment in such an environment challenges frequently of our knowledge. 
 
-We deploy small Apps online has already been tested, providing access to a few users. Behind the scene, high end computing technics requires specific knowledge and competence. We offer you any appropriate partnership to go further away, together. in our use of the standard, for our mutual benefit. 
+We would like to invite you to catch the wind, and join us. We design numerical tools to push forward boats technologies. Behind the scene, high end computing technics requires specific competence, outside our walls. We offer you any appropriate partnership to go further away, together. 
 
 ![Github](/images/image006.png)
 
+> The 3 components of our approach, for each of which we will focus our greatest efforts.
+
 ### Composite application
 
-The material characteristics taken into account are, most of the time, the thickness, the fiber orientation, the moisture level and the temperature. Advanced layering technologies  aim a gain in material strength, balancing efforts inside the material. The method 1 and method 2 cannot be used in relevant cases in the industry. A solution is given in the standard.
+> The material characteristics taken into account are, most of the time, the thickness, the fiber orientation, the moisture level and the temperature. Advanced layering technologies  aim a gain in material strength, balancing efforts inside the material. The method 1 and method 2 cannot be used in relevant cases in the industry. A solution is given in the standard, but the difficulty of its use poses an issue.
 
 For the more mechanical or material oriented engineers of you, we will enjoy every suggestion of __CLT analysis algorithm.__ Method 3 is a more detailed method applicable to __any bi-directional layered composite manufacture__. It concerns most of the boat production, since the industry of Plaisance is essentially plastic-based. 
 
