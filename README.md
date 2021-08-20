@@ -68,7 +68,9 @@ Plans for a better experience in quality insurance of leisure crafts
 
 > __September, 2021 Official launch of the BETA version__. __"The App"__ will deliver cross informations of the 12215 books, both interactively and into the form a pre-built templates, accessible to any kind of terminal java-compatible, until jan-2022. During the BETA period, we will fully support you in your applications, and let you drive __"The App"__ in your garage.
  
-Our efforts are focused in merging new computing technologies together, allowing for__"the App"__ to become a reliable and easy-to-get 12215 assessment of __crafts under 24meters/78feet__. Located on a distant virtual server, exchanging in real-time with the user, guiding him through the process of evaluation, we aim at giving to __the advantage of an highlighted view of what can be made__, in the mandatory field of the standard.
+Our efforts are focused in merging new computing technologies together, allowing __"the App"__ to become a reliable and easy-to-get 12215 assessment of every __crafts under 24meters/78feet, including racers__.
+
+Make use of virtual machine to lower the cost of edge technologies, exchange capital datas in real-time expertise and expersion with front end users, be assisted through the process of evaluation. we aim at giving to __the advantage of an highlighted view of what can be made__, in the mandatory field of the standard.
 
 __Three technologies__ have been selected and implemented in the DEMO for this purpose :
 
