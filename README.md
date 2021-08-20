@@ -35,6 +35,7 @@ non-professionals__.
 it's a complete virtual machine that is created for you, everytime you need it, wherever you are, taking advantage of just an smartphone in your hand and an internet connexion in the air. What you need to get the job done, in a nutshell.
 
 You access "the APP" directly when clicking on the link below. It may take a little while, at first start, for the online server to be built. 
+
 ![Github](/images/binder.png)
 
 It may also happens that the internet page stay blank after the BINDER server is launched. Please wait a litte more before reloading the page to get the app.
