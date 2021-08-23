@@ -3,7 +3,7 @@ Tool for Small Craft Hull Construction and Scantling ISO12215-5
 
 ![Github](/images/image002.png)
 
-> __Jun-2021__. 12215 ALIVE ! is a java application (also referred as __“the App”__ in this document) that select, organize and report, to your needs, the requirements of the ISO-12215 Small Crafts Design & Scantlings; in his last version.
+> __Jun-2021__. 12215 ALIVE ! is a java application (also referred as __“the App”__ in this document) that select, organize and report, to your needs, the requirements of the ISO-12215 Small Crafts Design & Scantlings, in its last revision.
 
  12215 ALIVE ! App DEMO is developped by A.C.E. CATTELLIOT ENGINEERING, in the purpose of finding support and partnership, for the developpment of a complete technical and regulatory service for __Hull Construction and Scantling of crafts under 24meters / 78feet__. 
 
