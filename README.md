@@ -30,7 +30,7 @@ A tool that makes you smarter
 
 > __August-2021__ Enter the minimal definition of your craft in this DEMO version and get the official application form of the 12215 standard. First step in the application of the standard, the DEMO gives the flavor of 12215ALIVE! __Get tuned and stay alert, all the functionnalities will be unveiled before the official launch !__
 
-it's __a complete virtual machine__ that is created for you, everytime you need it, wherever you are, taking advantage of just an smartphone in your hands and an internet connexion in the air. 
+it's __a complete virtual machine__ that is created for you, everytime you need it, wherever you are, taking advantage of just an smartphone in your hands and an internet connexion out of thin air. 
 
 ### What you need to get the job done, in a nutshell, is :
 
