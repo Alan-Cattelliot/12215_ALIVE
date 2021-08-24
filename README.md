@@ -56,7 +56,7 @@ After the start of the application, it may happens that the internet page stay b
 
 ### Known issues
  * Wait for the image to be downloaded, then double tap or click on the image section below the download button, in section `DESCRIPTION`, to display the full image.
- * Also double tap or click on the image section below the `get it` button, in section `GET YOUR APPLICATION FORM`, to get the full image display, after the image has been displayed.
+ * Also double tap or click on the image section below the `get it` button, in section `GET YOUR APPLICATION FORM`, to get the full image display, to display the image of the form.
  * When using scrolling selection, the first item of every menu is not reactive, even if clicked, for the first time of use. Simply choose another option, then re-select the first item in the menu you wanted to choose at first place.
 
 Sorry for the convenience, we're seeking solutions for this.
