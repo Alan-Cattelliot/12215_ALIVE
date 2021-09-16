@@ -1,0 +1,3243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Bateau xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="Voilier">
+  <LH>9</LH>
+  <LWL>8.57</LWL>
+  <BH>2.54</BH>
+  <BWL>2.02</BWL>
+  <BC>2.02</BC>
+  <D>1.29</D>
+  <V>6.91</V>
+  <beta>0</beta>
+  <Gz>0</Gz>
+  <FA>0</FA>
+  <FF>0</FF>
+  <FM>0</FM>
+  <Tc>0</Tc>
+  <BT>0</BT>
+  <AngleAlpha>0</AngleAlpha>
+  <architecte>BERRET RACOUPEAU</architecte>
+  <constructeur>Wauquiez</constructeur>
+  <indexCategorie>1</indexCategorie>
+  <indexInspection>-1</indexInspection>
+  <Version>4.0.19</Version>
+  <Panneaux>
+    <Panneau>
+      <afm>0</afm>
+      <BooleanQuille>false</BooleanQuille>
+      <hb>0</hb>
+      <x>8.4</x>
+      <reference>Fond etrave - A</reference>
+      <z>0</z>
+      <h>0</h>
+      <indexLocalisation>FOND</indexLocalisation>
+      <indexSuperStructure>-1</indexSuperStructure>
+      <c>90</c>
+      <b>490</b>
+      <l>1170</l>
+    </Panneau>
+    <Panneau>
+      <afm>0</afm>
+      <BooleanQuille>false</BooleanQuille>
+      <hb>0</hb>
+      <x>7.3</x>
+      <reference>Fond A-B</reference>
+      <z>0</z>
+      <h>0</h>
+      <indexLocalisation>FOND</indexLocalisation>
+      <indexSuperStructure>-1</indexSuperStructure>
+      <c>208</c>
+      <b>940</b>
+      <l>1055</l>
+    </Panneau>
+    <Panneau>
+      <afm>0</afm>
+      <BooleanQuille>false</BooleanQuille>
+      <hb>0</hb>
+      <x>6.45</x>
+      <reference>Fond B-C</reference>
+      <z>0</z>
+      <h>0</h>
+      <indexLocalisation>FOND</indexLocalisation>
+      <indexSuperStructure>-1</indexSuperStructure>
+      <c>289</c>
+      <b>770</b>
+      <l>1436</l>
+    </Panneau>
+    <Panneau>
+      <afm>0</afm>
+      <BooleanQuille>false</BooleanQuille>
+      <hb>0</hb>
+      <x>5.55</x>
+      <reference>Fond C-D</reference>
+      <z>0</z>
+      <h>0</h>
+      <indexLocalisation>FOND</indexLocalisation>
+      <indexSuperStructure>-1</indexSuperStructure>
+      <c>22</c>
+      <b>600</b>
+      <l>800</l>
+    </Panneau>
+    <Panneau>
+      <afm>0</afm>
+      <BooleanQuille>true</BooleanQuille>
+      <hb>0</hb>
+      <x>4.5</x>
+      <reference>Fond quille DOM</reference>
+      <z>0</z>
+      <h>0</h>
+      <indexLocalisation>FOND</indexLocalisation>
+      <indexSuperStructure>-1</indexSuperStructure>
+      <c>5</c>
+      <b>450</b>
+      <l>900</l>
+    </Panneau>
+    <Panneau>
+      <afm>0</afm>
+      <BooleanQuille>false</BooleanQuille>
+      <hb>0</hb>
+      <x>4.4</x>
+      <reference>Fond D-F tribord</reference>
+      <z>0</z>
+      <h>0</h>
+      <indexLocalisation>FOND</indexLocalisation>
+      <indexSuperStructure>-1</indexSuperStructure>
+      <c>29</c>
+      <b>600</b>
+      <l>1250</l>
+    </Panneau>
+    <Panneau>
+      <afm>0</afm>
+      <BooleanQuille>false</BooleanQuille>
+      <hb>0</hb>
+      <x>2.4</x>
+      <reference>Fond H-I grand</reference>
+      <z>0</z>
+      <h>0</h>
+      <indexLocalisation>FOND</indexLocalisation>
+      <indexSuperStructure>-1</indexSuperStructure>
+      <c>80</c>
+      <b>850</b>
+      <l>1225</l>
+    </Panneau>
+    <Panneau>
+      <afm>0</afm>
+      <BooleanQuille>false</BooleanQuille>
+      <hb>0</hb>
+      <x>8.4</x>
+      <reference>Muraille etrave A r290</reference>
+      <z>0.85</z>
+      <h>0.45</h>
+      <indexLocalisation>MURAILLE</indexLocalisation>
+      <indexSuperStructure>-1</indexSuperStructure>
+      <c>5</c>
+      <b>660</b>
+      <l>1170</l>
+    </Panneau>
+    <Panneau>
+      <afm>0</afm>
+      <BooleanQuille>false</BooleanQuille>
+      <hb>0</hb>
+      <x>6.83</x>
+      <reference>Muraille A-D</reference>
+      <z>0.9</z>
+      <h>0.45</h>
+      <indexLocalisation>MURAILLE</indexLocalisation>
+      <indexSuperStructure>-1</indexSuperStructure>
+      <c>55</c>
+      <b>930</b>
+      <l>3350</l>
+    </Panneau>
+    <Panneau>
+      <afm>0</afm>
+      <BooleanQuille>false</BooleanQuille>
+      <hb>0</hb>
+      <x>2.4</x>
+      <reference>Muraille H-I</reference>
+      <z>0.9</z>
+      <h>0.44</h>
+      <indexLocalisation>MURAILLE</indexLocalisation>
+      <indexSuperStructure>-1</indexSuperStructure>
+      <c>80</c>
+      <b>650</b>
+      <l>1225</l>
+    </Panneau>
+    <Panneau>
+      <afm>0</afm>
+      <BooleanQuille>false</BooleanQuille>
+      <hb>0</hb>
+      <x>7.5</x>
+      <reference>Pont AV 1</reference>
+      <z>0</z>
+      <h>0.95</h>
+      <indexLocalisation>PONT</indexLocalisation>
+      <indexSuperStructure>-1</indexSuperStructure>
+      <c>30</c>
+      <b>1040</b>
+      <l>1440</l>
+    </Panneau>
+    <Panneau>
+      <afm>0</afm>
+      <BooleanQuille>false</BooleanQuille>
+      <hb>0</hb>
+      <x>5.5</x>
+      <reference> Pont AV 2</reference>
+      <z>0</z>
+      <h>0.95</h>
+      <indexLocalisation>PONT</indexLocalisation>
+      <indexSuperStructure>-1</indexSuperStructure>
+      <c>35</c>
+      <b>800</b>
+      <l>1050</l>
+    </Panneau>
+    <Panneau>
+      <afm>0</afm>
+      <BooleanQuille>false</BooleanQuille>
+      <hb>0</hb>
+      <x>1.8</x>
+      <reference>Fond de cockpit</reference>
+      <z>0</z>
+      <h>0.4</h>
+      <indexLocalisation>PONT</indexLocalisation>
+      <indexSuperStructure>-1</indexSuperStructure>
+      <c>0</c>
+      <b>850</b>
+      <l>2000</l>
+    </Panneau>
+  </Panneaux>
+  <Raidisseurs>
+    <Raidisseur>
+      <afm>0</afm>
+      <BooleanQuille>false</BooleanQuille>
+      <hb>0</hb>
+      <x>6.2</x>
+      <reference>Lisse L3</reference>
+      <z>0.9</z>
+      <h>0.25</h>
+      <indexLocalisation>MURAILLE</indexLocalisation>
+      <indexSuperStructure>-1</indexSuperStructure>
+      <typeFixation>Lié au bordé</typeFixation>
+      <indexTypeFixation>0</indexTypeFixation>
+      <ouverture>false</ouverture>
+      <lu>1000</lu>
+      <s>400</s>
+      <cu>40</cu>
+      <floating>false</floating>
+      <Db>0</Db>
+      <indexEncastrement>0</indexEncastrement>
+    </Raidisseur>
+    <Raidisseur>
+      <afm>0</afm>
+      <BooleanQuille>false</BooleanQuille>
+      <hb>0</hb>
+      <x>0</x>
+      <reference>Varangue V2</reference>
+      <z>0</z>
+      <h>0</h>
+      <indexLocalisation>FOND</indexLocalisation>
+      <indexSuperStructure>-1</indexSuperStructure>
+      <typeFixation>Lié au bordé</typeFixation>
+      <indexTypeFixation>0</indexTypeFixation>
+      <ouverture>false</ouverture>
+      <lu>1150</lu>
+      <s>800</s>
+      <cu>100</cu>
+      <floating>false</floating>
+      <Db>0</Db>
+      <indexEncastrement>0</indexEncastrement>
+    </Raidisseur>
+    <Raidisseur>
+      <afm>0</afm>
+      <BooleanQuille>false</BooleanQuille>
+      <hb>0</hb>
+      <x>4.6</x>
+      <reference>Lisse L2</reference>
+      <z>0</z>
+      <h>0</h>
+      <indexLocalisation>FOND</indexLocalisation>
+      <indexSuperStructure>-1</indexSuperStructure>
+      <typeFixation>Lié au bordé</typeFixation>
+      <indexTypeFixation>0</indexTypeFixation>
+      <ouverture>false</ouverture>
+      <lu>1500</lu>
+      <s>300</s>
+      <cu>35</cu>
+      <floating>false</floating>
+      <Db>0</Db>
+      <indexEncastrement>0</indexEncastrement>
+    </Raidisseur>
+    <Raidisseur>
+      <afm>0</afm>
+      <BooleanQuille>false</BooleanQuille>
+      <hb>0</hb>
+      <x>0</x>
+      <reference>Varangue V1</reference>
+      <z>0</z>
+      <h>0</h>
+      <indexLocalisation>FOND</indexLocalisation>
+      <indexSuperStructure>-1</indexSuperStructure>
+      <typeFixation>Autres dispositions (flottant)</typeFixation>
+      <indexTypeFixation>1</indexTypeFixation>
+      <ouverture>false</ouverture>
+      <lu>1000</lu>
+      <s>150</s>
+      <cu>0</cu>
+      <floating>false</floating>
+      <Db>0</Db>
+      <indexEncastrement>0</indexEncastrement>
+    </Raidisseur>
+    <Raidisseur>
+      <afm>0</afm>
+      <BooleanQuille>false</BooleanQuille>
+      <hb>0</hb>
+      <x>1.4</x>
+      <reference>Lisse L1</reference>
+      <z>0</z>
+      <h>0</h>
+      <indexLocalisation>FOND</indexLocalisation>
+      <indexSuperStructure>-1</indexSuperStructure>
+      <typeFixation>Lié au bordé</typeFixation>
+      <indexTypeFixation>0</indexTypeFixation>
+      <ouverture>false</ouverture>
+      <lu>933</lu>
+      <s>350</s>
+      <cu>50</cu>
+      <floating>false</floating>
+      <Db>0</Db>
+      <indexEncastrement>0</indexEncastrement>
+    </Raidisseur>
+    <Raidisseur>
+      <afm>0</afm>
+      <BooleanQuille>false</BooleanQuille>
+      <hb>0</hb>
+      <x>6.5</x>
+      <reference>Barrot A</reference>
+      <z>0</z>
+      <h>0.95</h>
+      <indexLocalisation>PONT</indexLocalisation>
+      <indexSuperStructure>-1</indexSuperStructure>
+      <typeFixation>Lié au bordé</typeFixation>
+      <indexTypeFixation>0</indexTypeFixation>
+      <ouverture>false</ouverture>
+      <lu>1200</lu>
+      <s>1100</s>
+      <cu>40</cu>
+      <floating>false</floating>
+      <Db>0</Db>
+      <indexEncastrement>0</indexEncastrement>
+    </Raidisseur>
+    <Raidisseur>
+      <afm>0</afm>
+      <BooleanQuille>false</BooleanQuille>
+      <hb>0</hb>
+      <x>0.7</x>
+      <reference>Barrot D</reference>
+      <z>0</z>
+      <h>0.4</h>
+      <indexLocalisation>PONT</indexLocalisation>
+      <indexSuperStructure>-1</indexSuperStructure>
+      <typeFixation>Autres dispositions (flottant)</typeFixation>
+      <indexTypeFixation>1</indexTypeFixation>
+      <ouverture>false</ouverture>
+      <lu>700</lu>
+      <s>350</s>
+      <cu>0</cu>
+      <floating>false</floating>
+      <Db>0</Db>
+      <indexEncastrement>0</indexEncastrement>
+    </Raidisseur>
+  </Raidisseurs>
+  <ProfilsRaidisseurs>
+    <Profil xsi:type="Profil_Omega_Chapeau">
+      <getPossiblePredefinedGeometry>
+        <string>5</string>
+        <string>6</string>
+        <string>7</string>
+      </getPossiblePredefinedGeometry>
+      <Reference>SECT L1-L3</Reference>
+      <Tw>1.6274509803921564</Tw>
+      <h>60</h>
+      <Tf>1.96780303030303</Tf>
+      <b>0</b>
+      <TypeProfilMateriau>COMPOSITES</TypeProfilMateriau>
+      <Rotation>0</Rotation>
+      <RefMatChapeau>
+        <string>STOCK L3</string>
+      </RefMatChapeau>
+      <RefMatFlanc>
+        <string>FLAN L3</string>
+      </RefMatFlanc>
+      <Bud>50</Bud>
+      <Bc>50</Bc>
+      <Bb>60</Bb>
+      <isChapeauOnTop>false</isChapeauOnTop>
+      <isChapeauInFlanc>false</isChapeauInFlanc>
+    </Profil>
+    <Profil xsi:type="Profil_Omega_Chapeau">
+      <getPossiblePredefinedGeometry>
+        <string>5</string>
+        <string>6</string>
+        <string>7</string>
+      </getPossiblePredefinedGeometry>
+      <Reference>SECT V2</Reference>
+      <Tw>4.5416666666666652</Tw>
+      <h>75</h>
+      <Tf>3.9356060606060597</Tf>
+      <b>0</b>
+      <TypeProfilMateriau>COMPOSITES</TypeProfilMateriau>
+      <Rotation>0</Rotation>
+      <RefMatChapeau>
+        <string>STOCK V2</string>
+      </RefMatChapeau>
+      <RefMatFlanc>
+        <string>FLAN V2</string>
+      </RefMatFlanc>
+      <Bud>75</Bud>
+      <Bc>100</Bc>
+      <Bb>100</Bb>
+      <isChapeauOnTop>false</isChapeauOnTop>
+      <isChapeauInFlanc>false</isChapeauInFlanc>
+    </Profil>
+    <Profil xsi:type="Profil_Omega_Chapeau">
+      <getPossiblePredefinedGeometry>
+        <string>5</string>
+        <string>6</string>
+        <string>7</string>
+      </getPossiblePredefinedGeometry>
+      <Reference>SECT L2</Reference>
+      <Tw>4.5416666666666652</Tw>
+      <h>75</h>
+      <Tf>7.3792613636363642</Tf>
+      <b>0</b>
+      <TypeProfilMateriau>COMPOSITES</TypeProfilMateriau>
+      <Rotation>0</Rotation>
+      <RefMatChapeau>
+        <string>STOCK L2</string>
+      </RefMatChapeau>
+      <RefMatFlanc>
+        <string>FLAN V2</string>
+      </RefMatFlanc>
+      <Bud>75</Bud>
+      <Bc>100</Bc>
+      <Bb>100</Bb>
+      <isChapeauOnTop>false</isChapeauOnTop>
+      <isChapeauInFlanc>false</isChapeauInFlanc>
+    </Profil>
+    <Profil xsi:type="Profil_Omega_Chapeau">
+      <getPossiblePredefinedGeometry>
+        <string>5</string>
+        <string>6</string>
+        <string>7</string>
+      </getPossiblePredefinedGeometry>
+      <Reference>SECT V1</Reference>
+      <Tw>3.4062499999999991</Tw>
+      <h>60</h>
+      <Tf>1.4758522727272725</Tf>
+      <b>0</b>
+      <TypeProfilMateriau>COMPOSITES</TypeProfilMateriau>
+      <Rotation>0</Rotation>
+      <RefMatChapeau>
+        <string>STOCK V1</string>
+      </RefMatChapeau>
+      <RefMatFlanc>
+        <string>FLAN V1</string>
+      </RefMatFlanc>
+      <Bud>40</Bud>
+      <Bc>60</Bc>
+      <Bb>80</Bb>
+      <isChapeauOnTop>false</isChapeauOnTop>
+      <isChapeauInFlanc>false</isChapeauInFlanc>
+    </Profil>
+    <Profil xsi:type="Profil_CompoI">
+      <getPossiblePredefinedGeometry />
+      <Reference>SECT BA</Reference>
+      <Tw>22.708333333333329</Tw>
+      <h>12.7</h>
+      <Tf>2.4597537878787876</Tf>
+      <b>120</b>
+      <TypeProfilMateriau>COMPOSITES</TypeProfilMateriau>
+      <Rotation>0</Rotation>
+      <RefMatChapeau>
+        <string>STOCK BA</string>
+      </RefMatChapeau>
+      <RefMatFlanc>
+        <string>FLAN BA</string>
+      </RefMatFlanc>
+      <RefMatSemelle>
+        <string>STOCK BA</string>
+      </RefMatSemelle>
+      <Ts>2.4597537878787876</Ts>
+      <Bs>120</Bs>
+      <TwPlus>60</TwPlus>
+    </Profil>
+    <Profil xsi:type="Profil_CompoI">
+      <getPossiblePredefinedGeometry />
+      <Reference>SECT BD</Reference>
+      <Tw>1.1354166666666665</Tw>
+      <h>12.7</h>
+      <Tf>0.49195075757575751</Tf>
+      <b>100</b>
+      <TypeProfilMateriau>COMPOSITES</TypeProfilMateriau>
+      <Rotation>0</Rotation>
+      <RefMatChapeau>
+        <string>STOCK BD (0)</string>
+      </RefMatChapeau>
+      <RefMatFlanc>
+        <string>FLAN BD</string>
+      </RefMatFlanc>
+      <RefMatSemelle>
+        <string>STOCK BD (0)</string>
+      </RefMatSemelle>
+      <Ts>0.49195075757575751</Ts>
+      <Bs>120</Bs>
+      <TwPlus>120</TwPlus>
+    </Profil>
+    <Profil xsi:type="Profil_Omega_Chapeau">
+      <getPossiblePredefinedGeometry>
+        <string>5</string>
+        <string>6</string>
+        <string>7</string>
+      </getPossiblePredefinedGeometry>
+      <Reference>SECT BA ( 1 )</Reference>
+      <Tw>22.708333333333329</Tw>
+      <h>12.7</h>
+      <Tf>2.4597537878787876</Tf>
+      <b>0</b>
+      <TypeProfilMateriau>COMPOSITES</TypeProfilMateriau>
+      <Rotation>0</Rotation>
+      <RefMatChapeau>
+        <string>STOCK BA</string>
+      </RefMatChapeau>
+      <RefMatFlanc>
+        <string>FLAN BA</string>
+      </RefMatFlanc>
+      <Bud>100</Bud>
+      <Bc>120</Bc>
+      <Bb>120</Bb>
+      <isChapeauOnTop>false</isChapeauOnTop>
+      <isChapeauInFlanc>false</isChapeauInFlanc>
+    </Profil>
+  </ProfilsRaidisseurs>
+  <ResultatsPanneaux>
+    <RP xsi:type="RPV">
+      <reference>Fond etrave - A</reference>
+      <PressionUser>0</PressionUser>
+      <RefMateriau>zone 1-2 Pont</RefMateriau>
+      <RefPanneau>Fond etrave - A</RefPanneau>
+      <Epaisseur>14.274348958333334</Epaisseur>
+    </RP>
+    <RP xsi:type="RPV">
+      <reference>Fond A-B</reference>
+      <PressionUser>0</PressionUser>
+      <RefMateriau>zone 1-2 Pont</RefMateriau>
+      <RefPanneau>Fond A-B</RefPanneau>
+      <Epaisseur>14.274348958333334</Epaisseur>
+    </RP>
+    <RP xsi:type="RPV">
+      <reference>Fond C-D</reference>
+      <PressionUser>0</PressionUser>
+      <RefMateriau>zone 1-2 Pont</RefMateriau>
+      <RefPanneau>Fond C-D</RefPanneau>
+      <Epaisseur>14.274348958333334</Epaisseur>
+    </RP>
+    <RP xsi:type="RPV">
+      <reference>Fond quille DOM</reference>
+      <PressionUser>0</PressionUser>
+      <RefMateriau>zone 3</RefMateriau>
+      <RefPanneau>Fond quille DOM</RefPanneau>
+      <Epaisseur>7.2514322916666645</Epaisseur>
+    </RP>
+    <RP xsi:type="RPV">
+      <reference>Fond D-F tribord</reference>
+      <PressionUser>0</PressionUser>
+      <RefMateriau>zone 1-2 Pont</RefMateriau>
+      <RefPanneau>Fond D-F tribord</RefPanneau>
+      <Epaisseur>14.274348958333334</Epaisseur>
+    </RP>
+    <RP xsi:type="RPV">
+      <reference>Fond H-I grand</reference>
+      <PressionUser>0</PressionUser>
+      <RefMateriau>zone 1-2 Pont</RefMateriau>
+      <RefPanneau>Fond H-I grand</RefPanneau>
+      <Epaisseur>14.274348958333334</Epaisseur>
+    </RP>
+    <RP xsi:type="RPV">
+      <reference>Muraille etrave A r290</reference>
+      <PressionUser>0</PressionUser>
+      <RefMateriau>zone 1-2 Pont</RefMateriau>
+      <RefPanneau>Muraille etrave A r290</RefPanneau>
+      <Epaisseur>14.274348958333334</Epaisseur>
+    </RP>
+    <RP xsi:type="RPV">
+      <reference>Muraille A-D</reference>
+      <PressionUser>0</PressionUser>
+      <RefMateriau>zone 1-2 Pont</RefMateriau>
+      <RefPanneau>Muraille A-D</RefPanneau>
+      <Epaisseur>14.274348958333334</Epaisseur>
+    </RP>
+    <RP xsi:type="RPV">
+      <reference>Muraille H-I</reference>
+      <PressionUser>0</PressionUser>
+      <RefMateriau>zone 1-2 Pont</RefMateriau>
+      <RefPanneau>Muraille H-I</RefPanneau>
+      <Epaisseur>14.274348958333334</Epaisseur>
+    </RP>
+    <RP xsi:type="RPV">
+      <reference>Pont AV 1</reference>
+      <PressionUser>0</PressionUser>
+      <RefMateriau>zone 1-2 Pont</RefMateriau>
+      <RefPanneau>Pont AV 1</RefPanneau>
+      <Epaisseur>14.274348958333334</Epaisseur>
+    </RP>
+    <RP xsi:type="RPV">
+      <reference>Pont AV 2</reference>
+      <PressionUser>0</PressionUser>
+      <RefMateriau>zone 1-2 Pont</RefMateriau>
+      <RefPanneau> Pont AV 2</RefPanneau>
+      <Epaisseur>14.274348958333334</Epaisseur>
+    </RP>
+    <RP xsi:type="RPV">
+      <reference>Fond de cockpit</reference>
+      <PressionUser>0</PressionUser>
+      <RefMateriau>zone 1-2 Pont</RefMateriau>
+      <RefPanneau>Fond de cockpit</RefPanneau>
+      <Epaisseur>14.274348958333334</Epaisseur>
+    </RP>
+  </ResultatsPanneaux>
+  <ResultatsRaidisseurs>
+    <RR>
+      <reference>Lisse L3</reference>
+      <RefRaidisseur>Lisse L3</RefRaidisseur>
+      <RefNomProfil>SECT L1-L3</RefNomProfil>
+      <RefMateriauBorde>zone 1-2 Pont</RefMateriauBorde>
+      <EpaisseurBorde>14.274348958333334</EpaisseurBorde>
+      <PressionUser>0</PressionUser>
+      <Norme>N12215_INI</Norme>
+    </RR>
+    <RR>
+      <reference>Varangue V2</reference>
+      <RefRaidisseur>Varangue V2</RefRaidisseur>
+      <RefNomProfil>SECT V2</RefNomProfil>
+      <RefMateriauBorde>zone 3</RefMateriauBorde>
+      <EpaisseurBorde>7.2514322916666645</EpaisseurBorde>
+      <PressionUser>0</PressionUser>
+      <Norme>N12215_INI</Norme>
+    </RR>
+    <RR>
+      <reference>Varangue V1</reference>
+      <RefRaidisseur>Varangue V1</RefRaidisseur>
+      <RefNomProfil>SECT V1</RefNomProfil>
+      <RefMateriauBorde>zone 1-2 Pont</RefMateriauBorde>
+      <EpaisseurBorde>14.274348958333334</EpaisseurBorde>
+      <PressionUser>0</PressionUser>
+      <Norme>N12215_INI</Norme>
+    </RR>
+    <RR>
+      <reference>Lisse L1</reference>
+      <RefRaidisseur>Lisse L1</RefRaidisseur>
+      <RefNomProfil>SECT L1-L3</RefNomProfil>
+      <RefMateriauBorde>zone 1-2 Pont</RefMateriauBorde>
+      <EpaisseurBorde>14.274348958333334</EpaisseurBorde>
+      <PressionUser>0</PressionUser>
+      <Norme>N12215_INI</Norme>
+    </RR>
+    <RR>
+      <reference>Barrot A</reference>
+      <RefRaidisseur>Barrot A</RefRaidisseur>
+      <RefNomProfil>SECT BA ( 1 )</RefNomProfil>
+      <RefMateriauBorde>Bordé associé BARROT A</RefMateriauBorde>
+      <EpaisseurBorde>16.734102746212123</EpaisseurBorde>
+      <PressionUser>0</PressionUser>
+      <Norme>N12215_INI</Norme>
+    </RR>
+    <RR>
+      <reference>Barrot D</reference>
+      <RefRaidisseur>Barrot D</RefRaidisseur>
+      <RefNomProfil>SECT BD</RefNomProfil>
+      <RefMateriauBorde>Bordé associé BARROT A</RefMateriauBorde>
+      <EpaisseurBorde>16.734102746212123</EpaisseurBorde>
+      <PressionUser>0</PressionUser>
+      <Norme>N12215_INI</Norme>
+    </RR>
+  </ResultatsRaidisseurs>
+  <ResultatsCloisons />
+  <reference>OPTIO</reference>
+  <mLDC>3500</mLDC>
+  <Materiaux>
+    <Materiau xsi:type="StratifieMQi">
+      <reference>zone 1-2 Pont</reference>
+      <E>15681.87725631769</E>
+      <t>14.274348958333334</t>
+      <SigmaUc>153.63898916967506</SigmaUc>
+      <SigmaUt>235.70267148014443</SigmaUt>
+      <SigmaUf>259.00777472924187</SigmaUf>
+      <TauU>81.540794223826708</TauU>
+      <isExperimental>false</isExperimental>
+      <listePlis>
+        <StratifieMQi xsi:type="Pli">
+          <reference>MatH 225 g/m²</reference>
+          <E>8680</E>
+          <t>0.42122395833333337</t>
+          <SigmaUc>126</SigmaUc>
+          <SigmaUt>111.88</SigmaUt>
+          <SigmaUf>172.05919999999998</SigmaUf>
+          <TauU>66.8</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>16.2</TauUinter>
+          <w>225</w>
+          <G>2852</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.36</phi>
+          <IdQualite>0</IdQualite>
+          <typeRenfort>Mat voie humide</typeRenfort>
+          <indexTypeRenfort>MatHumide</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>RO 290 g/m²</reference>
+          <E>17040</E>
+          <t>0.28828125000000004</t>
+          <SigmaUc>159</SigmaUc>
+          <SigmaUt>259.72</SigmaUt>
+          <SigmaUf>275.8728</SigmaUf>
+          <TauU>84.4</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12.350000000000001</TauUinter>
+          <w>290</w>
+          <G>3226</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.58</phi>
+          <IdQualite>0</IdQualite>
+          <typeRenfort>Tissus de Roving</typeRenfort>
+          <indexTypeRenfort>Roving</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>RO 290 g/m²</reference>
+          <E>17040</E>
+          <t>0.28828125000000004</t>
+          <SigmaUc>159</SigmaUc>
+          <SigmaUt>259.72</SigmaUt>
+          <SigmaUf>275.8728</SigmaUf>
+          <TauU>84.4</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12.350000000000001</TauUinter>
+          <w>290</w>
+          <G>3226</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.58</phi>
+          <IdQualite>0</IdQualite>
+          <typeRenfort>Tissus de Roving</typeRenfort>
+          <indexTypeRenfort>Roving</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Ame">
+          <reference>Balsa de bois de bout</reference>
+          <E>29.329</E>
+          <t>12.7</t>
+          <SigmaUc>4.18</SigmaUc>
+          <SigmaUt>4.18</SigmaUt>
+          <SigmaUf>0</SigmaUf>
+          <TauU>1.262</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_OUVERT_SIMPLE</TypeFabrication>
+          <IndexTypeMateriau>Ame</IndexTypeMateriau>
+          <TauUinter>22.5</TauUinter>
+          <w>0</w>
+          <G>0</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0</phi>
+          <IdQualite>0</IdQualite>
+          <typeRenfort>Balsa de bois de bout</typeRenfort>
+          <indexTypeRenfort>Unknown</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+          <mv>90</mv>
+          <indexTypeAme>BALSA</indexTypeAme>
+          <Ec>1413</Ec>
+          <Elc>29.329</Elc>
+          <Gc>76.69</Gc>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>RO 290 g/m²</reference>
+          <E>17040</E>
+          <t>0.28828125000000004</t>
+          <SigmaUc>159</SigmaUc>
+          <SigmaUt>259.72</SigmaUt>
+          <SigmaUf>275.8728</SigmaUf>
+          <TauU>84.4</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12.350000000000001</TauUinter>
+          <w>290</w>
+          <G>3226</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.58</phi>
+          <IdQualite>0</IdQualite>
+          <typeRenfort>Tissus de Roving</typeRenfort>
+          <indexTypeRenfort>Roving</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>RO 290 g/m²</reference>
+          <E>17040</E>
+          <t>0.28828125000000004</t>
+          <SigmaUc>159</SigmaUc>
+          <SigmaUt>259.72</SigmaUt>
+          <SigmaUf>275.8728</SigmaUf>
+          <TauU>84.4</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12.350000000000001</TauUinter>
+          <w>290</w>
+          <G>3226</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.58</phi>
+          <IdQualite>0</IdQualite>
+          <typeRenfort>Tissus de Roving</typeRenfort>
+          <indexTypeRenfort>Roving</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+      </listePlis>
+      <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+      <IndexTypeMateriau>Melange</IndexTypeMateriau>
+      <TauUinter>12.975451263537909</TauUinter>
+      <w>1385</w>
+      <G>3165.2418772563178</G>
+      <rapportWPhi>2625</rapportWPhi>
+      <phi>0.52761904761904765</phi>
+      <IdQualite>0</IdQualite>
+    </Materiau>
+    <Materiau xsi:type="StratifieMQi">
+      <reference>zone 3</reference>
+      <E>13787.325660121871</E>
+      <t>7.2514322916666645</t>
+      <SigmaUc>160.43195666892351</SigmaUc>
+      <SigmaUt>212.99230873392017</SigmaUt>
+      <SigmaUf>282.3352427894381</SigmaUf>
+      <TauU>92.150846310088042</TauU>
+      <isExperimental>false</isExperimental>
+      <listePlis>
+        <StratifieMQi xsi:type="Pli">
+          <reference>MatH 225 g/m²</reference>
+          <E>8680</E>
+          <t>0.42122395833333337</t>
+          <SigmaUc>126</SigmaUc>
+          <SigmaUt>111.88</SigmaUt>
+          <SigmaUf>172.05919999999998</SigmaUf>
+          <TauU>66.8</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>16.2</TauUinter>
+          <w>225</w>
+          <G>2852</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.36</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Mat voie humide</typeRenfort>
+          <indexTypeRenfort>MatHumide</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>RO 290 g/m²</reference>
+          <E>17040</E>
+          <t>0.28828125000000004</t>
+          <SigmaUc>159</SigmaUc>
+          <SigmaUt>259.72</SigmaUt>
+          <SigmaUf>275.8728</SigmaUf>
+          <TauU>84.4</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12.350000000000001</TauUinter>
+          <w>290</w>
+          <G>3226</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.58</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Tissus de Roving</typeRenfort>
+          <indexTypeRenfort>Roving</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>RO 290 g/m²</reference>
+          <E>17040</E>
+          <t>0.28828125000000004</t>
+          <SigmaUc>159</SigmaUc>
+          <SigmaUt>259.72</SigmaUt>
+          <SigmaUf>275.8728</SigmaUf>
+          <TauU>84.4</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12.350000000000001</TauUinter>
+          <w>290</w>
+          <G>3226</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.58</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Tissus de Roving</typeRenfort>
+          <indexTypeRenfort>Roving</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>RO 290 g/m²</reference>
+          <E>17040</E>
+          <t>0.28828125000000004</t>
+          <SigmaUc>159</SigmaUc>
+          <SigmaUt>259.72</SigmaUt>
+          <SigmaUf>275.8728</SigmaUf>
+          <TauU>84.4</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12.350000000000001</TauUinter>
+          <w>290</w>
+          <G>3226</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.58</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Tissus de Roving</typeRenfort>
+          <indexTypeRenfort>Roving</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>RO 290 g/m²</reference>
+          <E>17040</E>
+          <t>0.28828125000000004</t>
+          <SigmaUc>159</SigmaUc>
+          <SigmaUt>259.72</SigmaUt>
+          <SigmaUf>275.8728</SigmaUf>
+          <TauU>84.4</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12.350000000000001</TauUinter>
+          <w>290</w>
+          <G>3226</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.58</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Tissus de Roving</typeRenfort>
+          <indexTypeRenfort>Roving</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>QX 600 g/m²</reference>
+          <E>13350</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>162</SigmaUc>
+          <SigmaUt>207.75</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>94.600000000000009</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Quadri-équi 0°/-45°/90°/+45°</typeRenfort>
+          <indexTypeRenfort>QUADRIAXIAL</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>QX 600 g/m²</reference>
+          <E>13350</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>162</SigmaUc>
+          <SigmaUt>207.75</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>94.600000000000009</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Quadri-équi 0°/-45°/90°/+45°</typeRenfort>
+          <indexTypeRenfort>QUADRIAXIAL</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>QX 600 g/m²</reference>
+          <E>13350</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>162</SigmaUc>
+          <SigmaUt>207.75</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>94.600000000000009</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Quadri-équi 0°/-45°/90°/+45°</typeRenfort>
+          <indexTypeRenfort>QUADRIAXIAL</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>QX 600 g/m²</reference>
+          <E>13350</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>162</SigmaUc>
+          <SigmaUt>207.75</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>94.600000000000009</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Quadri-équi 0°/-45°/90°/+45°</typeRenfort>
+          <indexTypeRenfort>QUADRIAXIAL</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>QX 600 g/m²</reference>
+          <E>13350</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>162</SigmaUc>
+          <SigmaUt>207.75</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>94.600000000000009</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Quadri-équi 0°/-45°/90°/+45°</typeRenfort>
+          <indexTypeRenfort>QUADRIAXIAL</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>QX 600 g/m²</reference>
+          <E>13350</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>162</SigmaUc>
+          <SigmaUt>207.75</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>94.600000000000009</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Quadri-équi 0°/-45°/90°/+45°</typeRenfort>
+          <indexTypeRenfort>QUADRIAXIAL</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>QX 600 g/m²</reference>
+          <E>13350</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>162</SigmaUc>
+          <SigmaUt>207.75</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>94.600000000000009</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Quadri-équi 0°/-45°/90°/+45°</typeRenfort>
+          <indexTypeRenfort>QUADRIAXIAL</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>QX 600 g/m²</reference>
+          <E>13350</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>162</SigmaUc>
+          <SigmaUt>207.75</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>94.600000000000009</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Quadri-équi 0°/-45°/90°/+45°</typeRenfort>
+          <indexTypeRenfort>QUADRIAXIAL</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>QX 600 g/m²</reference>
+          <E>13350</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>162</SigmaUc>
+          <SigmaUt>207.75</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>94.600000000000009</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Quadri-équi 0°/-45°/90°/+45°</typeRenfort>
+          <indexTypeRenfort>QUADRIAXIAL</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>QX 600 g/m²</reference>
+          <E>13350</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>162</SigmaUc>
+          <SigmaUt>207.75</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>94.600000000000009</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Quadri-équi 0°/-45°/90°/+45°</typeRenfort>
+          <indexTypeRenfort>QUADRIAXIAL</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+      </listePlis>
+      <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+      <IndexTypeMateriau>Verre</IndexTypeMateriau>
+      <TauUinter>12.182938388625598</TauUinter>
+      <w>7385</w>
+      <G>2771.6533513879481</G>
+      <rapportWPhi>12625</rapportWPhi>
+      <phi>0.58495049504950491</phi>
+      <IdQualite>1</IdQualite>
+    </Materiau>
+    <Materiau xsi:type="StratifieMQi">
+      <reference>FLAN L3</reference>
+      <E>27206.584375000002</E>
+      <t>1.6274509803921564</t>
+      <SigmaUc>168.80987499999998</SigmaUc>
+      <SigmaUt>252.8415</SigmaUt>
+      <SigmaUf>251.45826232412819</SigmaUf>
+      <TauU>121.9155</TauU>
+      <isExperimental>false</isExperimental>
+      <listePlis>
+        <StratifieMQi xsi:type="Pli">
+          <reference>BX090 600 g/m²</reference>
+          <E>43530.535</E>
+          <t>0.8137254901960782</t>
+          <SigmaUc>259.7075</SigmaUc>
+          <SigmaUt>421.4025</SigmaUt>
+          <SigmaUf>401.70233063950752</SigmaUf>
+          <TauU>38.230999999999995</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Carbone</IndexTypeMateriau>
+          <TauUinter>13.575</TauUinter>
+          <w>600</w>
+          <G>2599.2</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.51</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Biaxial équilibré 0°/90°</typeRenfort>
+          <indexTypeRenfort>BIAXIAL_0_90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>BX45 600 g/m²</reference>
+          <E>10882.63375</E>
+          <t>0.8137254901960782</t>
+          <SigmaUc>77.912249999999986</SigmaUc>
+          <SigmaUt>84.2805</SigmaUt>
+          <SigmaUf>101.21419400874885</SigmaUf>
+          <TauU>205.6</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Carbone</IndexTypeMateriau>
+          <TauUinter>13.575</TauUinter>
+          <w>600</w>
+          <G>2599.2</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.51</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Bibiais équilibré -45°/+45°</typeRenfort>
+          <indexTypeRenfort>BIAXIAL_45_45</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+      </listePlis>
+      <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+      <IndexTypeMateriau>Carbone</IndexTypeMateriau>
+      <TauUinter>13.575</TauUinter>
+      <w>1200</w>
+      <G>2599.2</G>
+      <rapportWPhi>2352.9411764705883</rapportWPhi>
+      <phi>0.51</phi>
+      <IdQualite>1</IdQualite>
+    </Materiau>
+    <Materiau xsi:type="StratifieMQi">
+      <reference>STOCK L3</reference>
+      <E>7930.1600000000035</E>
+      <t>1.96780303030303</t>
+      <SigmaUc>105</SigmaUc>
+      <SigmaUt>42</SigmaUt>
+      <SigmaUf>325.6712</SigmaUf>
+      <TauU>50</TauU>
+      <isExperimental>false</isExperimental>
+      <listePlis>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+      </listePlis>
+      <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+      <IndexTypeMateriau>Verre</IndexTypeMateriau>
+      <TauUinter>10.95</TauUinter>
+      <w>2400</w>
+      <G>3134.3280000000004</G>
+      <rapportWPhi>3636.363636363636</rapportWPhi>
+      <phi>0.66</phi>
+      <IdQualite>1</IdQualite>
+    </Materiau>
+    <Materiau xsi:type="StratifieMQi">
+      <reference>FLAN V2</reference>
+      <E>7861.9499999999989</E>
+      <t>4.5416666666666652</t>
+      <SigmaUc>95</SigmaUc>
+      <SigmaUt>95</SigmaUt>
+      <SigmaUf>287.72</SigmaUf>
+      <TauU>154.79999999999998</TauU>
+      <isExperimental>false</isExperimental>
+      <listePlis>
+        <StratifieMQi xsi:type="Pli">
+          <reference>BX45 600 g/m²</reference>
+          <E>7861.95</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>95</SigmaUc>
+          <SigmaUt>95</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>154.8</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Bibiais équilibré -45°/+45°</typeRenfort>
+          <indexTypeRenfort>BIAXIAL_45_45</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>BX45 600 g/m²</reference>
+          <E>7861.95</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>95</SigmaUc>
+          <SigmaUt>95</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>154.8</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Bibiais équilibré -45°/+45°</typeRenfort>
+          <indexTypeRenfort>BIAXIAL_45_45</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>BX45 600 g/m²</reference>
+          <E>7861.95</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>95</SigmaUc>
+          <SigmaUt>95</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>154.8</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Bibiais équilibré -45°/+45°</typeRenfort>
+          <indexTypeRenfort>BIAXIAL_45_45</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>BX45 600 g/m²</reference>
+          <E>7861.95</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>95</SigmaUc>
+          <SigmaUt>95</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>154.8</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Bibiais équilibré -45°/+45°</typeRenfort>
+          <indexTypeRenfort>BIAXIAL_45_45</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>BX45 600 g/m²</reference>
+          <E>7861.95</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>95</SigmaUc>
+          <SigmaUt>95</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>154.8</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Bibiais équilibré -45°/+45°</typeRenfort>
+          <indexTypeRenfort>BIAXIAL_45_45</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>BX45 600 g/m²</reference>
+          <E>7861.95</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>95</SigmaUc>
+          <SigmaUt>95</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>154.8</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Bibiais équilibré -45°/+45°</typeRenfort>
+          <indexTypeRenfort>BIAXIAL_45_45</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>BX45 600 g/m²</reference>
+          <E>7861.95</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>95</SigmaUc>
+          <SigmaUt>95</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>154.8</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Bibiais équilibré -45°/+45°</typeRenfort>
+          <indexTypeRenfort>BIAXIAL_45_45</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>BX45 600 g/m²</reference>
+          <E>7861.95</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>95</SigmaUc>
+          <SigmaUt>95</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>154.8</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Bibiais équilibré -45°/+45°</typeRenfort>
+          <indexTypeRenfort>BIAXIAL_45_45</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+      </listePlis>
+      <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+      <IndexTypeMateriau>Verre</IndexTypeMateriau>
+      <TauUinter>12</TauUinter>
+      <w>4800</w>
+      <G>2680.7999999999997</G>
+      <rapportWPhi>8000</rapportWPhi>
+      <phi>0.6</phi>
+      <IdQualite>1</IdQualite>
+    </Materiau>
+    <Materiau xsi:type="StratifieMQi">
+      <reference>STOCK V2</reference>
+      <E>7930.1600000000035</E>
+      <t>3.9356060606060597</t>
+      <SigmaUc>105</SigmaUc>
+      <SigmaUt>42</SigmaUt>
+      <SigmaUf>325.6712</SigmaUf>
+      <TauU>50</TauU>
+      <isExperimental>false</isExperimental>
+      <listePlis>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+      </listePlis>
+      <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+      <IndexTypeMateriau>Verre</IndexTypeMateriau>
+      <TauUinter>10.950000000000001</TauUinter>
+      <w>4800</w>
+      <G>3134.3280000000009</G>
+      <rapportWPhi>7272.7272727272721</rapportWPhi>
+      <phi>0.66</phi>
+      <IdQualite>1</IdQualite>
+    </Materiau>
+    <Materiau xsi:type="StratifieMQi">
+      <reference>FLAN L2</reference>
+      <E>7861.95</E>
+      <t>3.4062499999999991</t>
+      <SigmaUc>95</SigmaUc>
+      <SigmaUt>95</SigmaUt>
+      <SigmaUf>287.72</SigmaUf>
+      <TauU>154.8</TauU>
+      <isExperimental>false</isExperimental>
+      <listePlis>
+        <StratifieMQi xsi:type="Pli">
+          <reference>BX45 600 g/m²</reference>
+          <E>7861.95</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>95</SigmaUc>
+          <SigmaUt>95</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>154.8</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Bibiais équilibré -45°/+45°</typeRenfort>
+          <indexTypeRenfort>BIAXIAL_45_45</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>BX45 600 g/m²</reference>
+          <E>7861.95</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>95</SigmaUc>
+          <SigmaUt>95</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>154.8</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Bibiais équilibré -45°/+45°</typeRenfort>
+          <indexTypeRenfort>BIAXIAL_45_45</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>BX45 600 g/m²</reference>
+          <E>7861.95</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>95</SigmaUc>
+          <SigmaUt>95</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>154.8</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Bibiais équilibré -45°/+45°</typeRenfort>
+          <indexTypeRenfort>BIAXIAL_45_45</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>BX45 600 g/m²</reference>
+          <E>7861.95</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>95</SigmaUc>
+          <SigmaUt>95</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>154.8</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Bibiais équilibré -45°/+45°</typeRenfort>
+          <indexTypeRenfort>BIAXIAL_45_45</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>BX45 600 g/m²</reference>
+          <E>7861.95</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>95</SigmaUc>
+          <SigmaUt>95</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>154.8</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Bibiais équilibré -45°/+45°</typeRenfort>
+          <indexTypeRenfort>BIAXIAL_45_45</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>BX45 600 g/m²</reference>
+          <E>7861.95</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>95</SigmaUc>
+          <SigmaUt>95</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>154.8</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Bibiais équilibré -45°/+45°</typeRenfort>
+          <indexTypeRenfort>BIAXIAL_45_45</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+      </listePlis>
+      <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+      <IndexTypeMateriau>Verre</IndexTypeMateriau>
+      <TauUinter>12</TauUinter>
+      <w>3600</w>
+      <G>2680.8</G>
+      <rapportWPhi>6000</rapportWPhi>
+      <phi>0.6</phi>
+      <IdQualite>1</IdQualite>
+    </Materiau>
+    <Materiau xsi:type="StratifieMQi">
+      <reference>STOCK L2</reference>
+      <E>7930.16</E>
+      <t>7.3792613636363642</t>
+      <SigmaUc>105</SigmaUc>
+      <SigmaUt>41.999999999999993</SigmaUt>
+      <SigmaUf>325.67119999999994</SigmaUf>
+      <TauU>50.000000000000007</TauU>
+      <isExperimental>false</isExperimental>
+      <listePlis>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+      </listePlis>
+      <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+      <IndexTypeMateriau>Verre</IndexTypeMateriau>
+      <TauUinter>10.950000000000003</TauUinter>
+      <w>9000</w>
+      <G>3134.328</G>
+      <rapportWPhi>13636.363636363632</rapportWPhi>
+      <phi>0.66000000000000014</phi>
+      <IdQualite>1</IdQualite>
+    </Materiau>
+    <Materiau xsi:type="StratifieMQi">
+      <reference>FLAN V1</reference>
+      <E>7861.95</E>
+      <t>3.4062499999999991</t>
+      <SigmaUc>95</SigmaUc>
+      <SigmaUt>95</SigmaUt>
+      <SigmaUf>287.72</SigmaUf>
+      <TauU>154.8</TauU>
+      <isExperimental>false</isExperimental>
+      <listePlis>
+        <StratifieMQi xsi:type="Pli">
+          <reference>BX45 600 g/m²</reference>
+          <E>7861.95</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>95</SigmaUc>
+          <SigmaUt>95</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>154.8</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Bibiais équilibré -45°/+45°</typeRenfort>
+          <indexTypeRenfort>BIAXIAL_45_45</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>BX45 600 g/m²</reference>
+          <E>7861.95</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>95</SigmaUc>
+          <SigmaUt>95</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>154.8</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Bibiais équilibré -45°/+45°</typeRenfort>
+          <indexTypeRenfort>BIAXIAL_45_45</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>BX45 600 g/m²</reference>
+          <E>7861.95</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>95</SigmaUc>
+          <SigmaUt>95</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>154.8</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Bibiais équilibré -45°/+45°</typeRenfort>
+          <indexTypeRenfort>BIAXIAL_45_45</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>BX45 600 g/m²</reference>
+          <E>7861.95</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>95</SigmaUc>
+          <SigmaUt>95</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>154.8</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Bibiais équilibré -45°/+45°</typeRenfort>
+          <indexTypeRenfort>BIAXIAL_45_45</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>BX45 600 g/m²</reference>
+          <E>7861.95</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>95</SigmaUc>
+          <SigmaUt>95</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>154.8</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Bibiais équilibré -45°/+45°</typeRenfort>
+          <indexTypeRenfort>BIAXIAL_45_45</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>BX45 600 g/m²</reference>
+          <E>7861.95</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>95</SigmaUc>
+          <SigmaUt>95</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>154.8</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Bibiais équilibré -45°/+45°</typeRenfort>
+          <indexTypeRenfort>BIAXIAL_45_45</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+      </listePlis>
+      <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+      <IndexTypeMateriau>Verre</IndexTypeMateriau>
+      <TauUinter>12</TauUinter>
+      <w>3600</w>
+      <G>2680.8</G>
+      <rapportWPhi>6000</rapportWPhi>
+      <phi>0.6</phi>
+      <IdQualite>1</IdQualite>
+    </Materiau>
+    <Materiau xsi:type="StratifieMQi">
+      <reference>STOCK V1</reference>
+      <E>7930.1600000000035</E>
+      <t>1.4758522727272725</t>
+      <SigmaUc>105</SigmaUc>
+      <SigmaUt>42</SigmaUt>
+      <SigmaUf>325.6712</SigmaUf>
+      <TauU>50</TauU>
+      <isExperimental>false</isExperimental>
+      <listePlis>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+      </listePlis>
+      <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+      <IndexTypeMateriau>Verre</IndexTypeMateriau>
+      <TauUinter>10.95</TauUinter>
+      <w>1800</w>
+      <G>3134.3280000000004</G>
+      <rapportWPhi>2727.272727272727</rapportWPhi>
+      <phi>0.66</phi>
+      <IdQualite>1</IdQualite>
+    </Materiau>
+    <Materiau xsi:type="StratifieMQi">
+      <reference>FLAN BA</reference>
+      <E>7861.95</E>
+      <t>22.708333333333329</t>
+      <SigmaUc>95</SigmaUc>
+      <SigmaUt>95</SigmaUt>
+      <SigmaUf>287.72</SigmaUf>
+      <TauU>154.8</TauU>
+      <isExperimental>false</isExperimental>
+      <listePlis>
+        <StratifieMQi xsi:type="Pli">
+          <reference>BX45 6000 g/m²</reference>
+          <E>7861.95</E>
+          <t>5.6770833333333321</t>
+          <SigmaUc>95</SigmaUc>
+          <SigmaUt>95</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>154.8</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>6000</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Bibiais équilibré -45°/+45°</typeRenfort>
+          <indexTypeRenfort>BIAXIAL_45_45</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>BX45 6000 g/m²</reference>
+          <E>7861.95</E>
+          <t>5.6770833333333321</t>
+          <SigmaUc>95</SigmaUc>
+          <SigmaUt>95</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>154.8</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>6000</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Bibiais équilibré -45°/+45°</typeRenfort>
+          <indexTypeRenfort>BIAXIAL_45_45</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>BX45 6000 g/m²</reference>
+          <E>7861.95</E>
+          <t>5.6770833333333321</t>
+          <SigmaUc>95</SigmaUc>
+          <SigmaUt>95</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>154.8</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>6000</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Bibiais équilibré -45°/+45°</typeRenfort>
+          <indexTypeRenfort>BIAXIAL_45_45</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>BX45 6000 g/m²</reference>
+          <E>7861.95</E>
+          <t>5.6770833333333321</t>
+          <SigmaUc>95</SigmaUc>
+          <SigmaUt>95</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>154.8</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>6000</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Bibiais équilibré -45°/+45°</typeRenfort>
+          <indexTypeRenfort>BIAXIAL_45_45</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+      </listePlis>
+      <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+      <IndexTypeMateriau>Verre</IndexTypeMateriau>
+      <TauUinter>12</TauUinter>
+      <w>24000</w>
+      <G>2680.8</G>
+      <rapportWPhi>40000</rapportWPhi>
+      <phi>0.6</phi>
+      <IdQualite>1</IdQualite>
+    </Materiau>
+    <Materiau xsi:type="StratifieMQi">
+      <reference>STOCK BA</reference>
+      <E>7930.1600000000035</E>
+      <t>2.4597537878787876</t>
+      <SigmaUc>105</SigmaUc>
+      <SigmaUt>42</SigmaUt>
+      <SigmaUf>325.6712</SigmaUf>
+      <TauU>50</TauU>
+      <isExperimental>false</isExperimental>
+      <listePlis>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+      </listePlis>
+      <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+      <IndexTypeMateriau>Verre</IndexTypeMateriau>
+      <TauUinter>10.95</TauUinter>
+      <w>3000</w>
+      <G>3134.3280000000004</G>
+      <rapportWPhi>4545.454545454545</rapportWPhi>
+      <phi>0.66</phi>
+      <IdQualite>1</IdQualite>
+    </Materiau>
+    <Materiau xsi:type="StratifieMQi">
+      <reference>FLAN BD</reference>
+      <E>7861.95</E>
+      <t>1.1354166666666665</t>
+      <SigmaUc>95</SigmaUc>
+      <SigmaUt>95</SigmaUt>
+      <SigmaUf>287.72</SigmaUf>
+      <TauU>154.8</TauU>
+      <isExperimental>false</isExperimental>
+      <listePlis>
+        <StratifieMQi xsi:type="Pli">
+          <reference>BX45 600 g/m²</reference>
+          <E>7861.95</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>95</SigmaUc>
+          <SigmaUt>95</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>154.8</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Bibiais équilibré -45°/+45°</typeRenfort>
+          <indexTypeRenfort>BIAXIAL_45_45</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>BX45 600 g/m²</reference>
+          <E>7861.95</E>
+          <t>0.56770833333333326</t>
+          <SigmaUc>95</SigmaUc>
+          <SigmaUt>95</SigmaUt>
+          <SigmaUf>287.72</SigmaUf>
+          <TauU>154.8</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12</TauUinter>
+          <w>600</w>
+          <G>2680.8</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.6</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>Bibiais équilibré -45°/+45°</typeRenfort>
+          <indexTypeRenfort>BIAXIAL_45_45</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+      </listePlis>
+      <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+      <IndexTypeMateriau>Verre</IndexTypeMateriau>
+      <TauUinter>12</TauUinter>
+      <w>1200</w>
+      <G>2680.8</G>
+      <rapportWPhi>2000</rapportWPhi>
+      <phi>0.6</phi>
+      <IdQualite>1</IdQualite>
+    </Materiau>
+    <Materiau xsi:type="StratifieMQi">
+      <reference>STOCK BD</reference>
+      <E>7930.1600000000035</E>
+      <t>0.49195075757575751</t>
+      <SigmaUc>105</SigmaUc>
+      <SigmaUt>42</SigmaUt>
+      <SigmaUf>325.6712</SigmaUf>
+      <TauU>50</TauU>
+      <isExperimental>false</isExperimental>
+      <listePlis>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+      </listePlis>
+      <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+      <IndexTypeMateriau>Verre</IndexTypeMateriau>
+      <TauUinter>10.95</TauUinter>
+      <w>600</w>
+      <G>3134.3280000000004</G>
+      <rapportWPhi>909.090909090909</rapportWPhi>
+      <phi>0.66</phi>
+      <IdQualite>1</IdQualite>
+    </Materiau>
+    <Materiau xsi:type="StratifieMQi">
+      <reference>STOCK BD (0)</reference>
+      <E>7930.1600000000035</E>
+      <t>0.49195075757575751</t>
+      <SigmaUc>105</SigmaUc>
+      <SigmaUt>42</SigmaUt>
+      <SigmaUf>325.6712</SigmaUf>
+      <TauU>50</TauU>
+      <isExperimental>false</isExperimental>
+      <listePlis>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD90 600 g/m²</reference>
+          <E>7930.1600000000035</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>105</SigmaUc>
+          <SigmaUt>42</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>1</IdQualite>
+          <typeRenfort>UD 90°</typeRenfort>
+          <indexTypeRenfort>UD90</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+      </listePlis>
+      <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+      <IndexTypeMateriau>Verre</IndexTypeMateriau>
+      <TauUinter>10.95</TauUinter>
+      <w>600</w>
+      <G>3134.3280000000004</G>
+      <rapportWPhi>909.090909090909</rapportWPhi>
+      <phi>0.66</phi>
+      <IdQualite>1</IdQualite>
+    </Materiau>
+    <Materiau xsi:type="StratifieMQi">
+      <reference>Bordé associé BARROT A</reference>
+      <E>27051.831242873432</E>
+      <t>16.734102746212123</t>
+      <SigmaUc>291.400228050171</SigmaUc>
+      <SigmaUt>495.69719498289624</SigmaUt>
+      <SigmaUf>304.61559133409349</SigmaUf>
+      <TauU>59.962143671607755</TauU>
+      <isExperimental>false</isExperimental>
+      <listePlis>
+        <StratifieMQi xsi:type="Pli">
+          <reference>MatH 225 g/m²</reference>
+          <E>8680</E>
+          <t>0.42122395833333337</t>
+          <SigmaUc>126</SigmaUc>
+          <SigmaUt>111.88</SigmaUt>
+          <SigmaUf>172.05919999999998</SigmaUf>
+          <TauU>66.8</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>16.2</TauUinter>
+          <w>225</w>
+          <G>2852</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.36</phi>
+          <IdQualite>0</IdQualite>
+          <typeRenfort>Mat voie humide</typeRenfort>
+          <indexTypeRenfort>MatHumide</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>RO 290 g/m²</reference>
+          <E>17040</E>
+          <t>0.28828125000000004</t>
+          <SigmaUc>159</SigmaUc>
+          <SigmaUt>259.72</SigmaUt>
+          <SigmaUf>275.8728</SigmaUf>
+          <TauU>84.4</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12.350000000000001</TauUinter>
+          <w>290</w>
+          <G>3226</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.58</phi>
+          <IdQualite>0</IdQualite>
+          <typeRenfort>Tissus de Roving</typeRenfort>
+          <indexTypeRenfort>Roving</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>RO 290 g/m²</reference>
+          <E>17040</E>
+          <t>0.28828125000000004</t>
+          <SigmaUc>159</SigmaUc>
+          <SigmaUt>259.72</SigmaUt>
+          <SigmaUf>275.8728</SigmaUf>
+          <TauU>84.4</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12.350000000000001</TauUinter>
+          <w>290</w>
+          <G>3226</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.58</phi>
+          <IdQualite>0</IdQualite>
+          <typeRenfort>Tissus de Roving</typeRenfort>
+          <indexTypeRenfort>Roving</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Ame">
+          <reference>Balsa de bois de bout</reference>
+          <E>33.9938</E>
+          <t>12.7</t>
+          <SigmaUc>4.9959999999999987</SigmaUc>
+          <SigmaUt>4.9959999999999987</SigmaUt>
+          <SigmaUf>0</SigmaUf>
+          <TauU>1.4043999999999999</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_OUVERT_SIMPLE</TypeFabrication>
+          <IndexTypeMateriau>Ame</IndexTypeMateriau>
+          <TauUinter>22.5</TauUinter>
+          <w>0</w>
+          <G>0</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0</phi>
+          <IdQualite>0</IdQualite>
+          <typeRenfort>Balsa de bois de bout</typeRenfort>
+          <indexTypeRenfort>Unknown</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+          <mv>98</mv>
+          <indexTypeAme>BALSA</indexTypeAme>
+          <Ec>1658.6</Ec>
+          <Elc>33.9938</Elc>
+          <Gc>83.633999999999986</Gc>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>RO 290 g/m²</reference>
+          <E>17040</E>
+          <t>0.28828125000000004</t>
+          <SigmaUc>159</SigmaUc>
+          <SigmaUt>259.72</SigmaUt>
+          <SigmaUf>275.8728</SigmaUf>
+          <TauU>84.4</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12.350000000000001</TauUinter>
+          <w>290</w>
+          <G>3226</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.58</phi>
+          <IdQualite>0</IdQualite>
+          <typeRenfort>Tissus de Roving</typeRenfort>
+          <indexTypeRenfort>Roving</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>RO 290 g/m²</reference>
+          <E>17040</E>
+          <t>0.28828125000000004</t>
+          <SigmaUc>159</SigmaUc>
+          <SigmaUt>259.72</SigmaUt>
+          <SigmaUf>275.8728</SigmaUf>
+          <TauU>84.4</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>12.350000000000001</TauUinter>
+          <w>290</w>
+          <G>3226</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.58</phi>
+          <IdQualite>0</IdQualite>
+          <typeRenfort>Tissus de Roving</typeRenfort>
+          <indexTypeRenfort>Roving</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD0 600 g/m²</reference>
+          <E>32300.960000000003</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>355</SigmaUc>
+          <SigmaUt>615.72800000000007</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>0</IdQualite>
+          <typeRenfort>UD 0°</typeRenfort>
+          <indexTypeRenfort>UD0</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD0 600 g/m²</reference>
+          <E>32300.960000000003</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>355</SigmaUc>
+          <SigmaUt>615.72800000000007</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>0</IdQualite>
+          <typeRenfort>UD 0°</typeRenfort>
+          <indexTypeRenfort>UD0</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD0 600 g/m²</reference>
+          <E>32300.960000000003</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>355</SigmaUc>
+          <SigmaUt>615.72800000000007</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>0</IdQualite>
+          <typeRenfort>UD 0°</typeRenfort>
+          <indexTypeRenfort>UD0</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD0 600 g/m²</reference>
+          <E>32300.960000000003</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>355</SigmaUc>
+          <SigmaUt>615.72800000000007</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>0</IdQualite>
+          <typeRenfort>UD 0°</typeRenfort>
+          <indexTypeRenfort>UD0</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+        <StratifieMQi xsi:type="Pli">
+          <reference>UD0 600 g/m²</reference>
+          <E>32300.960000000003</E>
+          <t>0.49195075757575751</t>
+          <SigmaUc>355</SigmaUc>
+          <SigmaUt>615.72800000000007</SigmaUt>
+          <SigmaUf>325.6712</SigmaUf>
+          <TauU>50</TauU>
+          <isExperimental>true</isExperimental>
+          <listePlis />
+          <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+          <IndexTypeMateriau>Verre</IndexTypeMateriau>
+          <TauUinter>10.95</TauUinter>
+          <w>600</w>
+          <G>3134.3280000000004</G>
+          <rapportWPhi>0</rapportWPhi>
+          <phi>0.66</phi>
+          <IdQualite>0</IdQualite>
+          <typeRenfort>UD 0°</typeRenfort>
+          <indexTypeRenfort>UD0</indexTypeRenfort>
+          <isPhiNorme>true</isPhiNorme>
+          <Rov>0</Rov>
+        </StratifieMQi>
+      </listePlis>
+      <TypeFabrication>MOULE_SOUS_VIDE</TypeFabrication>
+      <IndexTypeMateriau>Melange</IndexTypeMateriau>
+      <TauUinter>11.589737742303308</TauUinter>
+      <w>4385</w>
+      <G>3144.0921322690992</G>
+      <rapportWPhi>7170.454545454545</rapportWPhi>
+      <phi>0.61153724247226626</phi>
+      <IdQualite>0</IdQualite>
+    </Materiau>
+  </Materiaux>
+  <BoatRudder xsi:type="SailRudder">
+    <Meches />
+    <Safrans />
+    <Results />
+  </BoatRudder>
+  <BoatSetting>
+    <TreeSetting>
+      <isOnlyNorme>false</isOnlyNorme>
+      <materialVisibilities>
+        <boolean>true</boolean>
+        <boolean>true</boolean>
+        <boolean>true</boolean>
+      </materialVisibilities>
+    </TreeSetting>
+  </BoatSetting>
+</Bateau>
