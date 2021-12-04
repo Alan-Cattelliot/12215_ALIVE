@@ -1,4 +1,4 @@
-"εut1","εut2","εuc1","εuc2","εuf1b","εuf2c","γu12","σut1","σut2","σuc1","σuc2","σuf1","σuf2","τ12"
+"Produit","Matiere","Reference","Masse volumique ρ","Épaisseur du stratifié par masse de fibre sèche t/w","Module d’élasticité E Ef1//Fibres","Module d’élasticité E Ef2⏊ Fibres","Module de cisaillement G","Coefficient de Poisson ν","contrainte de cisaillement interlaminaire τUIL","εut1","εut2","εuc1","εuc2","εuf1b","εuf2c","γu12","σut1","σut2","σuc1","σuc2","σuf1","σuf2","τ12"
 "âme structurelle","Styrene acrylonitrile (SAN)","Gurit T400",71,"-",85,85,29,"-","-",0.28,0.28,0.28,0.28,0.28,0.28,0.28,1.30,1.30,1.30,1.30,"-","-",0.81
 "âme structurelle","Styrene acrylonitrile (SAN)","Gurit T600",94,"-",152,152,40,"-","-",0.14,0.14,0.14,0.14,0.14,0.14,0.14,1.72,1.72,1.72,1.72,"-","-",1.20
 "âme structurelle","Styrene acrylonitrile (SAN)","Gurit M60",65,"-",44,44,20,"-","-",0.53,0.53,0.53,0.53,0.53,0.53,0.53,0.81,0.81,0.81,0.81,"-","-",0.68
@@ -14,4 +14,3 @@
 "âme structurelle","Polyvinyl chloride (PVC)","Gurit PVC60HT",60,"-",97,97,21,"-","-",0.29,0.29,0.29,0.29,0.29,0.29,0.29,1.98,1.98,1.98,1.98,"-","-",0.86
 "âme structurelle","Polyvinyl chloride (PVC)","Gurit PVC80HT",80,"-",138,138,29,"-","-",0.32,0.32,0.32,0.32,0.32,0.32,0.32,2.84,2.84,2.84,2.84,"-","-",1.26
 "âme structurelle","Balsa","Gurit Balsaflex110",110,"-",2130,2130,103,"-","-","-","-","-","-","-","-","-","-","-",8.3,8.3,"-","-",2.0
-"Produit","Matiere","Reference","Masse volumique ρ","Épaisseur du stratifié par masse de fibre sèche t/w","Module d’élasticité E Ef1//Fibres","Module d’élasticité E Ef2⏊ Fibres","Module de cisaillement G","Coefficient de Poisson ν","contrainte de cisaillement interlaminaire τUIL","εut1","εut2","εuc1","εuc2","εuf1b","εuf2c","γu12","σut1","σut2","σuc1","σuc2","σuf1","σuf2","τ12"
