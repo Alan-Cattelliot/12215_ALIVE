@@ -38,6 +38,8 @@ it's __a complete virtual machine__ that is created for you, everytime you need 
 
 Direct link to the DEMO : [link to 12215 ALIVE !](https://mybinder.org/v2/gh/Alan-Cattelliot/12215_ALIVE/HEAD?urlpath=%2Fvoila%2Frender%2FFuture_version_1.ipynb)
 
+Direct link to the A7 Note: [A.7 Analysis](https://mybinder.org/v2/gh/Alan-Cattelliot/12215_ALIVE/HEAD?urlpath=voila%2Frender%2FA7tool.ipynb)
+
 - [ ] Check the `Lauching server` printout in terminal view
 
 The online server is being built. The terminal view gives the status of the server creation and configuration. 
